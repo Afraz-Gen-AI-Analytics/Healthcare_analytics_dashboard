@@ -1,0 +1,1001 @@
+Patient_ID,Admission_Date,Discharge_Date,Department,Disease,Gender,Age,Doctor_Assigned,Outcome,ICU_Required,Bed_Type,Hospital_Location,Treatment_Cost,Readmission_Within_30_Days
+P00001,2023-04-13,2023-04-17,Cardiology,Diabetes,Male,15.0,Dr. Brown,Recovered,No,ICU,Phoenix,4648.77,Yes
+P00002,2023-03-29,2023-04-03,Cardiology,Cancer,Male,24.0,Dr. Smith,Recovered,Yes,Emergency,Chicago,4648.79,No
+P00003,2024-02-18,2024-02-24,Pediatrics,Flu,Male,2.0,Dr. Lee,Recovered,Yes,General,Phoenix,5362.94,No
+P00004,2024-07-14,2024-07-25,Cardiology,Flu,Male,59.0,Dr. Smith,Recovered,Yes,Emergency,Houston,2130.08,No
+,2023-07-09,2023-07-23,Pediatrics,Cancer,Female,47.0,Dr. Johnson,Recovered,No,ICU,New York,4963.32,No
+P00006,2024-10-08,2024-10-13,Cardiology,Cancer,Male,73.0,Dr. Johnson,Recovered,No,ICU,Houston,5533.33,No
+P00007,2023-08-30,2023-09-09,Pediatrics,Flu,Male,9.0,Dr. Smith,Recovered,No,Emergency,Los Angeles,6168.79,No
+P00008,2023-02-04,2023-02-18,General Medicine,Flu,Male,81.0,Dr. Brown,Recovered,No,ICU,Los Angeles,3348.35,No
+P00009,2024-01-25,2024-01-31,Neurology,Covid-19,Male,4.0,Dr. Patel,Recovered,No,General,Los Angeles,5327.96,No
+P00010,2024-03-31,2024-04-14,Oncology,Heart Disease,Female,87.0,Dr. Johnson,Recovered,No,General,New York,6322.64,No
+P00011,2023-12-04,2023-12-09,General Medicine,Cancer,Male,24.0,,Recovered,No,,Los Angeles,3304.17,No
+P00012,2023-03-06,2023-03-15,Neurology,Diabetes,Male,71.0,Dr. Patel,Recovered,No,General,Houston,5201.64,No
+P00013,2023-03-04,2023-03-15,General Medicine,Heart Disease,Male,81.0,Dr. Brown,Recovered,No,Emergency,Chicago,6047.66,No
+P00014,2023-01-28,2023-02-04,Pediatrics,Heart Disease,Male,73.0,Dr. Smith,Recovered,No,ICU,Los Angeles,5260.4,Yes
+P00015,2024-02-11,2024-02-25,Neurology,Cancer,Male,88.0,Dr. Johnson,Recovered,No,General,New York,5686.83,No
+P00016,2024-04-06,2024-04-09,Pediatrics,Heart Disease,Male,1.0,Dr. Lee,Recovered,No,General,New York,2473.57,No
+P00017,2024-01-28,2024-02-07,,Heart Disease,Male,42.0,Dr. Johnson,Recovered,No,General,Houston,4910.27,No
+P00018,2024-04-29,2024-05-06,Orthopedics,Heart Disease,Female,15.0,Dr. Lee,Recovered,No,Emergency,Los Angeles,6441.76,Yes
+P00019,2024-11-29,2024-12-02,Orthopedics,Stroke,Female,86.0,Dr. Brown,Recovered,No,General,Los Angeles,4084.52,No
+P00020,2024-09-11,2024-09-23,Neurology,Heart Disease,Female,84.0,Dr. Lee,Recovered,No,General,New York,4525.75,No
+P00021,2023-12-14,2023-12-23,Pediatrics,Diabetes,Female,62.0,Dr. Smith,Recovered,No,ICU,Los Angeles,6910.6,No
+P00022,2023-12-25,2023-12-31,Pediatrics,Stroke,Male,72.0,Dr. Lee,Recovered,No,Emergency,Phoenix,4562.07,No
+P00023,2023-08-22,2023-09-03,Oncology,Heart Disease,Male,24.0,Dr. Johnson,Recovered,No,ICU,Chicago,7829.28,No
+P00024,2024-05-11,2024-05-21,Orthopedics,Flu,Male,52.0,Dr. Patel,Recovered,No,Emergency,Los Angeles,5261.87,No
+P00025,2024-09-04,2024-09-05,Oncology,Heart Disease,Female,56.0,Dr. Brown,Recovered,No,Emergency,Los Angeles,4011.23,No
+P00026,2023-08-13,2023-08-14,Oncology,Stroke,Female,19.0,Dr. Brown,Recovered,No,General,,5005.91,No
+,2024-12-10,2024-12-17,Cardiology,Fracture,Female,68.0,Dr. Brown,Recovered,No,Emergency,Los Angeles,6091.75,No
+P00028,2024-09-01,2024-09-07,Orthopedics,Fracture,Male,86.0,Dr. Johnson,Recovered,Yes,General,Phoenix,4071.4,No
+P00029,2023-05-04,2023-05-15,Cardiology,Cancer,Male,70.0,Dr. Brown,Recovered,No,General,Phoenix,3354.87,No
+P00030,2024-05-25,,Cardiology,Heart Disease,Male,20.0,Dr. Lee,Recovered,Yes,ICU,Chicago,3976.55,No
+P00031,2024-10-01,2024-10-08,Neurology,Stroke,Female,82.0,Dr. Johnson,Recovered,No,Emergency,New York,3743.63,No
+P00032,2023-10-25,2023-10-28,Neurology,Diabetes,Female,7.0,Dr. Lee,Recovered,No,General,Chicago,6015.78,No
+P00033,2024-07-25,2024-07-26,Oncology,Diabetes,Male,2.0,,Deceased,No,ICU,Chicago,6500.73,No
+P00034,2023-08-21,2023-08-24,Cardiology,Stroke,Female,19.0,Dr. Lee,Recovered,No,General,Los Angeles,5228.63,No
+P00035,2023-04-30,2023-05-01,Orthopedics,Heart Disease,Male,24.0,Dr. Johnson,Recovered,No,Emergency,Houston,5979.57,No
+P00036,2023-04-22,2023-05-06,Orthopedics,Cancer,Male,89.0,Dr. Brown,Recovered,Yes,Emergency,New York,6654.03,No
+P00037,2023-12-04,2023-12-06,Cardiology,Covid-19,Female,54.0,Dr. Smith,Recovered,No,General,New York,3004.89,No
+P00038,2024-01-27,2024-02-03,General Medicine,Stroke,Male,67.0,Dr. Johnson,Recovered,No,General,Los Angeles,4962.07,Yes
+P00039,2024-04-14,2024-04-21,Orthopedics,Fracture,Male,22.0,Dr. Johnson,Recovered,No,Emergency,New York,,No
+P00040,2023-08-14,2023-08-19,Pediatrics,Diabetes,Female,30.0,Dr. Lee,Recovered,No,General,Los Angeles,4640.61,No
+P00041,2024-10-20,2024-10-24,Neurology,Flu,Male,35.0,Dr. Patel,Recovered,Yes,General,Chicago,4982.63,No
+P00042,2024-06-01,2024-06-04,,Fracture,Female,37.0,Dr. Johnson,Recovered,No,ICU,Houston,5285.9,No
+P00043,2023-04-09,,Cardiology,Cancer,Female,63.0,Dr. Brown,,Yes,General,Houston,4833.19,No
+P00044,2024-07-19,2024-07-29,Pediatrics,Flu,Female,67.0,Dr. Johnson,Recovered,Yes,ICU,,2376.4,No
+P00045,2024-10-24,2024-10-26,Pediatrics,Flu,Male,27.0,Dr. Lee,Recovered,No,Emergency,Phoenix,5674.66,No
+P00046,2024-06-21,2024-06-24,Neurology,Fracture,Male,50.0,Dr. Lee,Recovered,No,ICU,Houston,7668.39,No
+P00047,2023-02-05,2023-02-18,Oncology,Flu,Female,20.0,Dr. Brown,Recovered,No,Emergency,Phoenix,5348.44,No
+P00048,2023-04-02,2023-04-04,Pediatrics,Heart Disease,Female,66.0,Dr. Johnson,Recovered,No,Emergency,Houston,5264.27,No
+P00049,2024-11-28,2024-12-12,Neurology,Stroke,Male,22.0,Dr. Smith,Recovered,Yes,General,Phoenix,3660.32,No
+P00050,2023-02-22,2023-03-06,General Medicine,Diabetes,Female,5.0,Dr. Brown,Recovered,No,ICU,Houston,4497.77,No
+P00051,2023-12-16,2023-12-19,Pediatrics,Diabetes,Female,55.0,Dr. Brown,Recovered,Yes,ICU,Chicago,4839.21,No
+P00052,2023-02-27,2023-03-06,General Medicine,Fracture,Male,62.0,Dr. Brown,Recovered,No,General,New York,4270.67,No
+P00053,2023-02-27,2023-03-09,Pediatrics,Fracture,Male,1.0,Dr. Johnson,Recovered,No,ICU,Chicago,5275.78,No
+P00054,2024-12-04,2024-12-09,General Medicine,Cancer,Female,,Dr. Lee,Recovered,Yes,Emergency,New York,5866.85,No
+P00055,2024-03-10,2024-03-15,General Medicine,Flu,Female,86.0,Dr. Johnson,Recovered,Yes,,Houston,5665.73,No
+P00056,2023-08-06,2023-08-16,Cardiology,Covid-19,Female,48.0,Dr. Smith,Recovered,No,Emergency,Los Angeles,6161.95,No
+P00057,2023-12-23,2023-12-30,Oncology,Fracture,Female,10.0,Dr. Johnson,Recovered,No,ICU,Los Angeles,5002.72,No
+P00058,2024-05-30,2024-06-07,Orthopedics,Fracture,Male,80.0,Dr. Smith,Recovered,Yes,General,New York,6133.9,No
+P00059,2024-04-19,2024-04-23,General Medicine,Diabetes,Female,24.0,Dr. Brown,Recovered,No,Emergency,Phoenix,5340.48,No
+P00060,2023-09-25,2023-09-28,Cardiology,Fracture,Male,65.0,Dr. Brown,Deceased,No,General,Houston,4593.56,No
+P00061,2024-02-01,2024-02-13,Oncology,Diabetes,Female,46.0,Dr. Patel,Recovered,Yes,Emergency,Houston,4270.35,No
+P00062,2024-08-24,2024-09-07,Orthopedics,Cancer,Female,34.0,Dr. Smith,Recovered,No,General,Phoenix,5311.4,No
+P00063,2024-09-17,2024-09-30,Oncology,,Male,75.0,Dr. Lee,Recovered,No,Emergency,Los Angeles,4055.45,No
+P00064,2024-04-01,2024-04-09,General Medicine,,Female,64.0,Dr. Smith,Recovered,No,General,Houston,6315.13,No
+P00065,2023-04-06,2023-04-14,Cardiology,Heart Disease,Male,,Dr. Brown,Recovered,No,Emergency,Houston,7329.29,No
+P00066,2023-09-30,2023-10-01,,Cancer,Female,62.0,Dr. Johnson,Recovered,No,General,Chicago,4340.72,No
+,2023-01-19,2023-01-20,Neurology,Diabetes,Male,,Dr. Johnson,Deceased,No,ICU,Los Angeles,5588.06,No
+P00068,2024-07-17,2024-07-20,Orthopedics,Heart Disease,Female,16.0,Dr. Patel,Recovered,No,General,Los Angeles,4813.21,No
+P00069,2024-04-13,2024-04-17,Neurology,Heart Disease,Male,53.0,Dr. Johnson,Recovered,No,,Houston,4981.63,Yes
+P00070,2023-08-11,2023-08-21,Pediatrics,Diabetes,Male,5.0,Dr. Johnson,Recovered,No,General,Chicago,3654.12,No
+P00071,2024-08-10,2024-08-19,Cardiology,Flu,Male,74.0,Dr. Lee,Recovered,No,General,Chicago,4612.37,No
+P00072,2024-01-28,2024-01-30,Cardiology,Fracture,Male,27.0,Dr. Brown,Recovered,Yes,ICU,New York,6775.22,Yes
+P00073,2023-12-05,2023-12-13,Cardiology,Heart Disease,Female,65.0,Dr. Smith,Recovered,No,Emergency,Phoenix,5279.32,No
+P00074,2023-09-09,2023-09-12,Cardiology,Heart Disease,Male,61.0,Dr. Patel,Recovered,No,,Houston,6239.29,No
+P00075,2024-06-14,2024-06-21,Orthopedics,Fracture,Female,67.0,Dr. Brown,Recovered,No,ICU,Chicago,7385.24,No
+P00076,2023-12-27,2024-01-03,Orthopedics,Flu,Female,1.0,Dr. Lee,Recovered,No,Emergency,Chicago,5707.46,No
+P00077,2024-05-22,2024-05-23,Oncology,Covid-19,Male,25.0,Dr. Lee,Recovered,No,Emergency,Houston,5104.48,No
+P00078,2023-08-17,2023-08-21,Pediatrics,Fracture,Male,19.0,Dr. Lee,Deceased,No,ICU,New York,6475.26,No
+P00079,2024-06-09,2024-06-10,Cardiology,Flu,Female,54.0,Dr. Johnson,Recovered,No,General,Phoenix,8284.7,No
+P00080,2023-12-14,2023-12-18,Cardiology,Covid-19,Female,8.0,Dr. Johnson,Recovered,No,ICU,Houston,3787.55,Yes
+P00081,2023-02-10,2023-02-14,Orthopedics,Diabetes,Female,64.0,Dr. Patel,Recovered,Yes,ICU,Los Angeles,4032.02,No
+P00082,2024-07-11,2024-07-14,Cardiology,Diabetes,Female,6.0,Dr. Smith,Recovered,No,Emergency,Chicago,2599.08,No
+P00083,2024-03-25,2024-04-04,Cardiology,Covid-19,Female,56.0,Dr. Brown,Recovered,No,General,Phoenix,4535.39,No
+P00084,2023-05-26,2023-05-27,Pediatrics,Flu,Male,11.0,Dr. Lee,Recovered,No,ICU,Houston,3245.27,No
+P00085,2024-11-19,2024-12-02,General Medicine,Covid-19,Male,33.0,Dr. Brown,Recovered,No,ICU,Phoenix,4837.06,No
+P00086,2024-12-09,2024-12-14,Neurology,Diabetes,Male,3.0,Dr. Patel,Recovered,No,Emergency,Phoenix,4916.77,No
+P00087,2024-04-02,2024-04-05,Cardiology,Stroke,Female,17.0,Dr. Smith,Recovered,No,ICU,Phoenix,3727.22,No
+P00088,2024-03-24,2024-03-25,Pediatrics,Stroke,,32.0,Dr. Smith,Recovered,No,ICU,Phoenix,3595.63,Yes
+P00089,2023-09-07,2023-09-09,Neurology,Stroke,Male,54.0,Dr. Johnson,Recovered,No,Emergency,New York,5254.96,No
+P00090,2024-02-05,2024-02-12,Cardiology,Flu,Male,79.0,Dr. Johnson,Recovered,No,ICU,Houston,6729.87,No
+P00091,2023-04-13,2023-04-19,Oncology,Stroke,Female,64.0,Dr. Brown,Recovered,No,Emergency,New York,2403.69,No
+P00092,2024-03-22,2024-03-24,General Medicine,Stroke,Female,52.0,Dr. Smith,Recovered,No,Emergency,Chicago,7166.51,No
+P00093,2024-06-25,2024-07-02,Neurology,Fracture,,51.0,Dr. Lee,Recovered,,ICU,Houston,6818.23,No
+P00094,2023-03-10,,General Medicine,Diabetes,Female,6.0,Dr. Johnson,Recovered,No,,Chicago,4783.93,No
+,2023-04-21,2023-04-30,Cardiology,Cancer,Male,23.0,Dr. Smith,Recovered,Yes,General,Chicago,5549.9,No
+P00096,2024-11-26,2024-12-05,General Medicine,Fracture,Male,67.0,Dr. Smith,Recovered,No,Emergency,Chicago,3590.18,No
+P00097,2023-03-02,2023-03-12,Neurology,Covid-19,Female,51.0,Dr. Brown,,Yes,Emergency,New York,3776.75,Yes
+P00098,2024-05-27,2024-06-01,Oncology,Heart Disease,Male,12.0,Dr. Brown,Recovered,No,ICU,Chicago,4161.46,No
+P00099,2023-03-14,2023-03-24,Oncology,Covid-19,Male,47.0,Dr. Patel,Recovered,Yes,Emergency,Phoenix,4831.51,No
+P00100,2024-09-16,2024-09-19,Orthopedics,Stroke,Male,52.0,Dr. Brown,Recovered,,General,Phoenix,4668.55,No
+P00101,2024-04-18,2024-04-30,Pediatrics,Cancer,Male,87.0,Dr. Lee,Recovered,No,General,Houston,,No
+,2023-12-29,2024-01-10,General Medicine,Flu,Male,18.0,Dr. Patel,,No,ICU,Los Angeles,3823.23,No
+P00103,2024-09-22,2024-09-27,General Medicine,Diabetes,Male,28.0,Dr. Patel,Recovered,No,ICU,Chicago,4030.14,No
+P00104,2023-05-25,2023-06-07,Orthopedics,Diabetes,Male,84.0,Dr. Lee,Recovered,No,Emergency,Phoenix,3377.68,No
+P00105,2023-05-26,2023-05-30,Pediatrics,Diabetes,Male,86.0,Dr. Brown,Recovered,No,ICU,Houston,3444.13,No
+P00106,2024-06-01,2024-06-05,Cardiology,Covid-19,Female,26.0,Dr. Johnson,Recovered,,Emergency,Los Angeles,4714.49,No
+P00107,2024-01-12,2024-01-13,General Medicine,Covid-19,Male,53.0,Dr. Smith,Recovered,Yes,General,Houston,4024.04,No
+P00108,2023-12-16,2023-12-24,General Medicine,Flu,Female,55.0,Dr. Johnson,Recovered,Yes,General,Phoenix,4269.31,Yes
+P00109,2023-08-17,2023-08-21,Pediatrics,Cancer,Female,24.0,Dr. Brown,Recovered,No,ICU,Houston,4134.84,No
+P00110,2024-07-27,2024-08-05,Pediatrics,Heart Disease,Female,66.0,Dr. Lee,Recovered,No,Emergency,Los Angeles,6133.09,No
+P00111,2023-10-27,2023-11-01,General Medicine,Covid-19,Female,70.0,Dr. Smith,Deceased,No,General,Chicago,5960.87,No
+P00112,2023-01-01,2023-01-11,Orthopedics,Covid-19,Male,14.0,Dr. Lee,Recovered,No,ICU,Los Angeles,3777.82,No
+P00113,2023-09-16,2023-09-17,Orthopedics,Stroke,Female,6.0,Dr. Brown,Recovered,Yes,ICU,Los Angeles,6509.44,No
+P00114,2024-09-04,2024-09-13,Neurology,Stroke,Male,17.0,Dr. Smith,Recovered,No,ICU,Phoenix,4134.66,No
+P00115,2024-02-23,2024-03-08,Cardiology,Diabetes,Male,49.0,Dr. Brown,Recovered,No,ICU,Los Angeles,6025.94,No
+P00116,2024-08-10,2024-08-13,Cardiology,Heart Disease,Female,35.0,Dr. Brown,Recovered,No,General,New York,4783.21,Yes
+P00117,2023-12-15,2023-12-23,Cardiology,Fracture,Female,11.0,Dr. Patel,Recovered,No,ICU,Los Angeles,4522.28,No
+P00118,2024-01-14,2024-01-28,General Medicine,Diabetes,Female,26.0,Dr. Johnson,Recovered,No,General,New York,4521.41,No
+P00119,2024-02-06,2024-02-14,Neurology,Flu,Female,72.0,Dr. Lee,Recovered,No,Emergency,Phoenix,2193.81,No
+P00120,2023-05-23,2023-05-24,Neurology,Diabetes,Female,25.0,Dr. Smith,Recovered,No,ICU,Houston,4472.73,No
+P00121,2024-09-07,2024-09-15,Oncology,Diabetes,Female,51.0,Dr. Lee,Recovered,No,General,New York,6822.08,No
+P00122,2024-05-14,2024-05-27,Cardiology,Heart Disease,Male,33.0,Dr. Brown,Recovered,,Emergency,Phoenix,3678.7,No
+P00123,2024-07-03,2024-07-12,Neurology,,Female,27.0,Dr. Lee,Recovered,Yes,Emergency,New York,7264.66,No
+P00124,2023-04-28,2023-05-04,Orthopedics,Stroke,Female,13.0,Dr. Brown,Recovered,No,Emergency,Houston,5603.05,No
+P00125,2024-11-26,2024-12-09,Oncology,Fracture,Male,8.0,Dr. Smith,Recovered,No,ICU,New York,6445.78,No
+P00126,2023-10-19,2023-10-29,General Medicine,Covid-19,Male,43.0,,Recovered,No,Emergency,New York,6460.34,No
+P00127,2024-07-03,2024-07-09,Pediatrics,Fracture,Female,72.0,Dr. Smith,Recovered,No,Emergency,Phoenix,6142.88,No
+P00128,2023-07-29,2023-08-07,Orthopedics,Diabetes,Male,60.0,Dr. Johnson,Recovered,Yes,Emergency,New York,5318.98,No
+P00129,2023-05-13,2023-05-21,Neurology,Covid-19,Male,37.0,Dr. Smith,Recovered,Yes,Emergency,Houston,7823.04,No
+P00130,,2023-02-12,Oncology,Heart Disease,Male,40.0,Dr. Johnson,Recovered,No,Emergency,Los Angeles,7018.13,No
+P00131,2024-09-04,2024-09-09,General Medicine,Stroke,Male,36.0,Dr. Patel,Recovered,No,,New York,5083.59,No
+P00132,2024-10-22,2024-10-31,Cardiology,Heart Disease,Female,53.0,Dr. Lee,Recovered,No,Emergency,Los Angeles,6641.29,Yes
+P00133,2024-07-28,2024-08-01,Pediatrics,Diabetes,Male,25.0,Dr. Johnson,Recovered,No,ICU,New York,2666.38,No
+P00134,2024-10-01,2024-10-12,Orthopedics,Covid-19,Female,59.0,Dr. Patel,Recovered,Yes,ICU,Los Angeles,1000.0,No
+P00135,2023-06-29,2023-07-05,Orthopedics,Flu,Female,88.0,Dr. Patel,Recovered,No,ICU,Phoenix,3639.64,No
+P00136,2023-02-18,2023-02-25,Orthopedics,Fracture,Male,81.0,Dr. Smith,Deceased,Yes,Emergency,New York,3919.05,No
+P00137,2024-04-20,2024-05-03,Neurology,Heart Disease,Male,49.0,Dr. Johnson,Recovered,No,ICU,Los Angeles,2955.94,No
+P00138,2023-11-14,2023-11-28,Neurology,Fracture,,29.0,Dr. Patel,Recovered,No,ICU,Chicago,2133.12,No
+P00139,2023-01-19,2023-01-21,Neurology,Diabetes,Female,1.0,Dr. Smith,Recovered,No,Emergency,Chicago,1023.55,No
+P00140,2024-11-08,2024-11-11,Oncology,Flu,Male,63.0,Dr. Brown,Recovered,No,ICU,New York,6637.26,Yes
+P00141,2024-10-04,2024-10-14,Oncology,Diabetes,Female,74.0,Dr. Johnson,Recovered,No,Emergency,Los Angeles,6833.31,No
+P00142,2024-03-18,2024-03-31,Cardiology,Diabetes,Female,72.0,Dr. Johnson,Recovered,No,Emergency,Chicago,1738.51,No
+P00143,2024-08-31,2024-09-12,Orthopedics,Diabetes,Male,8.0,Dr. Brown,Recovered,No,General,Chicago,6066.44,No
+P00144,2024-03-27,2024-03-31,Pediatrics,Flu,Male,37.0,Dr. Patel,Recovered,,General,New York,5666.39,No
+P00145,2023-01-07,2023-01-17,Oncology,Heart Disease,Male,7.0,Dr. Patel,Recovered,No,ICU,New York,7051.06,No
+P00146,2024-12-09,2024-12-13,Oncology,Diabetes,Male,11.0,Dr. Lee,Recovered,No,ICU,Chicago,6437.38,No
+P00147,2024-01-31,2024-02-04,Neurology,Covid-19,Male,5.0,Dr. Lee,Recovered,No,General,New York,6424.57,No
+P00148,2024-05-20,2024-05-26,Pediatrics,Stroke,Female,24.0,Dr. Smith,Recovered,No,General,Los Angeles,4458.52,No
+P00149,2024-12-27,2024-12-28,Orthopedics,Diabetes,Female,81.0,Dr. Patel,Recovered,No,ICU,New York,2977.72,No
+P00150,2023-08-23,2023-09-06,Orthopedics,Cancer,Female,4.0,Dr. Patel,Recovered,No,ICU,Phoenix,6114.9,No
+P00151,2023-03-16,2023-03-22,Cardiology,Heart Disease,Male,18.0,Dr. Lee,Recovered,No,ICU,Los Angeles,3860.54,No
+P00152,2024-01-13,2024-01-25,Oncology,Covid-19,Female,87.0,Dr. Brown,Recovered,Yes,Emergency,Los Angeles,4994.97,No
+P00153,2023-10-14,2023-10-20,Oncology,Heart Disease,Male,40.0,Dr. Johnson,Recovered,No,General,Houston,9141.14,No
+P00154,2024-04-20,2024-05-04,Orthopedics,Diabetes,Female,46.0,Dr. Smith,Recovered,Yes,Emergency,Chicago,4676.47,No
+P00155,2024-11-23,2024-11-27,General Medicine,Covid-19,Male,26.0,Dr. Patel,Recovered,No,ICU,Houston,6236.62,No
+P00156,2023-08-15,2023-08-21,Neurology,Flu,Female,55.0,Dr. Brown,Recovered,No,Emergency,Chicago,4813.08,No
+P00157,2023-10-16,2023-10-26,Oncology,Flu,Male,36.0,Dr. Lee,Recovered,Yes,Emergency,New York,5354.0,No
+P00158,2024-04-26,2024-05-05,Oncology,Flu,Female,26.0,Dr. Smith,Recovered,No,Emergency,New York,5349.01,No
+P00159,2024-10-02,2024-10-11,Cardiology,Diabetes,Male,61.0,Dr. Smith,Recovered,No,,Phoenix,6061.63,No
+P00160,2023-06-21,2023-06-24,Cardiology,Heart Disease,Female,12.0,Dr. Patel,Recovered,Yes,ICU,New York,4156.3,No
+P00161,2023-01-17,2023-01-27,Pediatrics,Diabetes,Male,57.0,Dr. Brown,Recovered,Yes,ICU,Phoenix,6596.85,No
+P00162,2024-10-22,2024-10-23,General Medicine,Diabetes,Male,87.0,Dr. Brown,Recovered,No,General,Phoenix,5179.41,No
+P00163,2024-04-10,2024-04-19,Neurology,Covid-19,Male,12.0,Dr. Brown,Recovered,No,Emergency,Phoenix,5644.43,No
+P00164,2023-03-27,2023-04-06,General Medicine,Cancer,Male,7.0,Dr. Patel,Recovered,No,Emergency,Phoenix,5311.53,No
+P00165,2024-11-18,2024-11-26,Cardiology,Fracture,Female,59.0,Dr. Johnson,Recovered,No,Emergency,Phoenix,5042.48,No
+P00166,2024-05-04,2024-05-11,Neurology,Stroke,Male,17.0,Dr. Lee,Recovered,No,General,Phoenix,5044.63,No
+P00167,2023-04-08,2023-04-11,Oncology,Heart Disease,Female,37.0,Dr. Brown,Recovered,No,ICU,Los Angeles,7166.26,No
+P00168,2024-05-30,2024-06-12,Oncology,Heart Disease,Female,86.0,Dr. Johnson,Recovered,No,Emergency,New York,2143.23,No
+P00169,2024-03-01,2024-03-13,Oncology,Cancer,Female,66.0,Dr. Lee,Recovered,No,ICU,Los Angeles,6070.1,No
+P00170,2023-02-08,2023-02-22,Cardiology,Diabetes,Female,29.0,Dr. Johnson,Recovered,No,ICU,Phoenix,5070.53,No
+,2024-11-27,2024-12-05,Cardiology,Flu,Female,10.0,Dr. Smith,Recovered,No,ICU,New York,7606.59,Yes
+P00172,2024-03-04,2024-03-18,Orthopedics,Flu,Female,30.0,Dr. Lee,Recovered,No,ICU,New York,5252.71,
+P00173,2024-03-07,2024-03-08,Cardiology,Cancer,Male,53.0,Dr. Brown,Deceased,No,ICU,New York,7325.75,No
+P00174,2023-03-02,2023-03-07,Cardiology,Flu,Female,43.0,Dr. Johnson,Recovered,No,General,Phoenix,3502.47,No
+P00175,2023-12-10,2023-12-21,Orthopedics,Stroke,Female,62.0,Dr. Smith,Recovered,Yes,ICU,New York,5249.68,No
+P00176,2024-05-07,2024-05-21,Neurology,Covid-19,Female,74.0,Dr. Johnson,Recovered,No,ICU,Houston,5738.68,Yes
+P00177,2024-05-20,2024-05-23,Oncology,Cancer,Female,6.0,Dr. Brown,Recovered,No,General,Phoenix,5144.82,No
+P00178,2024-07-26,2024-08-06,Oncology,Heart Disease,Female,35.0,Dr. Brown,Recovered,No,General,Los Angeles,2750.24,No
+,2023-06-09,2023-06-12,Oncology,Diabetes,Female,13.0,Dr. Smith,Recovered,No,ICU,Los Angeles,7321.26,Yes
+P00180,2024-09-08,2024-09-16,Cardiology,Stroke,Female,67.0,,Recovered,No,General,Houston,7693.82,Yes
+P00181,2023-11-28,2023-12-08,Pediatrics,Diabetes,Female,9.0,,Recovered,No,General,Los Angeles,3640.95,No
+P00182,2023-02-07,2023-02-15,Pediatrics,Diabetes,Female,5.0,Dr. Smith,Recovered,No,ICU,Houston,6462.28,No
+P00183,2024-11-18,2024-12-01,Orthopedics,Flu,Male,28.0,Dr. Lee,Recovered,No,ICU,Phoenix,1000.0,No
+P00184,2024-11-28,2024-12-01,General Medicine,Diabetes,Female,56.0,Dr. Johnson,Recovered,No,General,New York,3694.67,No
+P00185,2023-10-16,2023-10-22,Cardiology,Stroke,Male,88.0,Dr. Lee,Recovered,No,Emergency,New York,6230.72,No
+P00186,2023-06-19,2023-06-23,General Medicine,Stroke,Male,63.0,Dr. Lee,Recovered,Yes,ICU,Phoenix,5760.91,No
+P00187,2024-07-10,2024-07-20,General Medicine,Heart Disease,Female,31.0,Dr. Brown,Recovered,Yes,ICU,Chicago,6809.76,No
+P00188,2023-12-22,2023-12-24,Pediatrics,Heart Disease,Female,78.0,Dr. Johnson,Recovered,No,Emergency,,3774.6,No
+P00189,2024-06-08,2024-06-22,General Medicine,Fracture,Male,27.0,Dr. Johnson,Deceased,No,,New York,6129.96,No
+P00190,2024-11-05,2024-11-11,,Diabetes,Male,83.0,Dr. Brown,Recovered,No,General,Houston,2974.63,No
+P00191,2024-02-16,2024-02-28,General Medicine,Covid-19,Male,79.0,Dr. Patel,Recovered,Yes,Emergency,Los Angeles,5263.32,Yes
+P00192,2023-07-11,2023-07-12,Neurology,Covid-19,Male,12.0,Dr. Johnson,Recovered,No,General,Los Angeles,5612.77,
+P00193,2024-04-18,2024-04-26,Pediatrics,Heart Disease,,82.0,Dr. Johnson,Recovered,No,General,Houston,5550.65,Yes
+P00194,2023-02-02,2023-02-08,Cardiology,Fracture,Male,79.0,Dr. Smith,Recovered,No,General,Houston,4211.29,Yes
+P00195,2024-04-26,2024-05-10,Pediatrics,Fracture,Female,,Dr. Johnson,Recovered,Yes,General,Chicago,5133.43,No
+P00196,2023-03-16,2023-03-20,Pediatrics,Flu,Male,32.0,Dr. Patel,Recovered,No,ICU,New York,6748.87,No
+P00197,2024-06-22,2024-06-25,Oncology,Heart Disease,Female,81.0,Dr. Lee,Deceased,Yes,ICU,Chicago,5646.26,No
+P00198,2023-03-25,2023-03-31,General Medicine,Flu,Male,19.0,Dr. Lee,Recovered,No,General,Los Angeles,5364.96,No
+P00199,2024-06-10,2024-06-12,Cardiology,Heart Disease,Male,61.0,Dr. Lee,Recovered,No,General,Chicago,5753.63,No
+P00200,,2024-06-30,Pediatrics,Cancer,Male,60.0,Dr. Brown,Recovered,No,General,Chicago,7581.25,No
+P00201,2024-08-13,2024-08-24,Pediatrics,Cancer,Female,46.0,Dr. Lee,Recovered,Yes,General,New York,4025.04,No
+P00202,2024-01-13,2024-01-16,General Medicine,Heart Disease,Male,20.0,Dr. Lee,Recovered,No,ICU,Chicago,6405.84,No
+P00203,2023-09-30,2023-10-14,General Medicine,Covid-19,Female,84.0,Dr. Johnson,Recovered,No,Emergency,Chicago,3888.75,No
+P00204,2023-04-27,2023-04-29,Neurology,Fracture,Female,88.0,,Recovered,No,General,Los Angeles,4978.57,No
+P00205,2023-10-01,2023-10-15,General Medicine,Diabetes,Male,64.0,Dr. Smith,Recovered,No,Emergency,Los Angeles,6352.74,No
+P00206,2023-04-12,2023-04-21,Neurology,Diabetes,Female,8.0,Dr. Smith,Recovered,No,General,Phoenix,6912.02,No
+P00207,2024-08-10,2024-08-19,Orthopedics,Cancer,Female,46.0,Dr. Brown,Recovered,No,General,Phoenix,7255.1,No
+P00208,2023-08-30,2023-09-11,General Medicine,Stroke,Male,2.0,Dr. Johnson,Recovered,No,General,Houston,6316.04,Yes
+P00209,2024-08-11,2024-08-15,Orthopedics,Diabetes,Female,26.0,Dr. Patel,Recovered,Yes,ICU,Chicago,7696.53,No
+P00210,2023-04-16,2023-04-23,Pediatrics,Diabetes,Male,44.0,Dr. Brown,Recovered,No,General,Houston,5961.26,No
+P00211,2023-01-09,2023-01-15,Pediatrics,Fracture,Male,73.0,Dr. Johnson,Recovered,No,Emergency,Chicago,6047.33,No
+P00212,,2023-11-18,General Medicine,Stroke,Female,62.0,Dr. Smith,Recovered,No,Emergency,New York,5590.23,No
+P00213,2023-07-27,2023-07-31,General Medicine,Stroke,Female,6.0,Dr. Brown,Recovered,No,Emergency,Phoenix,5602.02,No
+P00214,2023-01-12,2023-01-19,Orthopedics,Heart Disease,Male,12.0,Dr. Brown,Recovered,No,Emergency,Houston,8273.76,No
+P00215,2024-07-20,2024-08-03,Orthopedics,Covid-19,Female,45.0,Dr. Brown,Recovered,No,Emergency,Chicago,4963.47,No
+P00216,2024-12-23,2024-12-29,Neurology,Stroke,Male,37.0,Dr. Johnson,Deceased,No,Emergency,Los Angeles,8213.41,No
+P00217,2024-12-14,2024-12-17,Orthopedics,Diabetes,Male,35.0,Dr. Patel,Recovered,No,ICU,Phoenix,5723.41,No
+P00218,2024-12-25,2025-01-04,General Medicine,Diabetes,Female,61.0,Dr. Lee,Recovered,No,General,Chicago,4370.15,No
+P00219,2024-01-17,2024-01-21,General Medicine,Cancer,Male,60.0,Dr. Johnson,Recovered,No,General,New York,2657.29,No
+P00220,2024-05-26,2024-05-30,Orthopedics,Stroke,Female,66.0,Dr. Smith,Recovered,No,Emergency,Los Angeles,8002.61,No
+P00221,2024-01-06,2024-01-16,Oncology,Stroke,Female,12.0,Dr. Smith,Recovered,No,Emergency,Los Angeles,4265.69,No
+P00222,2023-04-10,2023-04-24,Neurology,Fracture,Male,87.0,Dr. Smith,Recovered,No,Emergency,Chicago,5933.83,No
+P00223,2023-10-20,2023-10-25,General Medicine,Fracture,Female,38.0,Dr. Lee,Recovered,No,General,Phoenix,4764.9,No
+P00224,2023-03-25,2023-03-27,Oncology,Diabetes,Male,70.0,Dr. Brown,Recovered,No,Emergency,Chicago,6593.6,No
+P00225,2023-06-12,2023-06-17,Oncology,Heart Disease,Male,5.0,,Recovered,No,General,Chicago,2666.15,Yes
+P00226,2023-09-27,2023-10-07,Neurology,Cancer,Male,10.0,Dr. Patel,Recovered,Yes,Emergency,Phoenix,4591.41,No
+P00227,2024-11-13,2024-11-25,Cardiology,Diabetes,Female,1.0,Dr. Lee,Recovered,No,Emergency,Phoenix,7106.82,No
+P00228,2023-07-23,2023-07-28,Orthopedics,Stroke,Female,49.0,Dr. Johnson,Recovered,No,ICU,Chicago,2591.68,No
+P00229,2024-12-19,2024-12-25,Neurology,Fracture,Female,61.0,Dr. Johnson,Recovered,No,ICU,Los Angeles,4517.57,Yes
+P00230,2023-01-01,2023-01-08,General Medicine,Diabetes,Female,35.0,Dr. Lee,Recovered,No,General,Houston,4323.49,No
+P00231,2024-11-21,2024-12-05,Cardiology,Flu,Male,12.0,Dr. Brown,Recovered,No,General,Los Angeles,5209.01,No
+P00232,2023-08-11,2023-08-19,Neurology,,,43.0,Dr. Johnson,Recovered,No,Emergency,Chicago,5678.8,No
+P00233,2024-01-19,2024-02-02,Cardiology,Cancer,Male,45.0,Dr. Johnson,Recovered,,ICU,Phoenix,3900.97,No
+P00234,2024-10-30,2024-11-05,Neurology,Heart Disease,Male,5.0,Dr. Smith,Deceased,No,ICU,Los Angeles,5758.14,No
+P00235,2023-04-29,2023-05-09,Pediatrics,Diabetes,Female,43.0,Dr. Smith,Recovered,No,Emergency,Phoenix,6444.45,No
+P00236,2024-08-10,2024-08-21,Neurology,Diabetes,Male,72.0,Dr. Patel,Recovered,No,General,Houston,5461.43,No
+P00237,2023-10-14,2023-10-28,Pediatrics,Heart Disease,Male,53.0,Dr. Smith,Recovered,No,Emergency,New York,3514.96,No
+P00238,2024-07-28,2024-08-06,Neurology,Stroke,Male,33.0,Dr. Lee,Recovered,No,General,Phoenix,4339.99,No
+P00239,2024-08-11,2024-08-20,,Covid-19,Male,75.0,Dr. Smith,Recovered,No,Emergency,Chicago,6784.21,No
+P00240,2024-08-16,2024-08-29,General Medicine,Heart Disease,Male,23.0,Dr. Johnson,Recovered,No,ICU,Phoenix,3158.59,No
+P00241,2024-03-30,2024-04-08,Pediatrics,Covid-19,Male,85.0,Dr. Lee,Recovered,No,ICU,Houston,7391.76,No
+P00242,2024-04-17,2024-04-18,Neurology,Stroke,Male,49.0,Dr. Patel,Recovered,No,Emergency,Chicago,3729.56,Yes
+P00243,2023-09-24,2023-09-27,General Medicine,Fracture,Male,72.0,Dr. Smith,Recovered,No,General,New York,1626.36,No
+P00244,2024-03-25,2024-03-31,Orthopedics,Cancer,Male,28.0,Dr. Patel,Recovered,No,ICU,Los Angeles,3975.51,No
+P00245,2023-10-31,2023-11-05,Cardiology,Stroke,Male,79.0,Dr. Johnson,Recovered,No,ICU,Houston,6019.96,No
+P00246,2024-03-02,2024-03-15,Neurology,Cancer,Female,21.0,Dr. Johnson,Recovered,Yes,Emergency,Houston,5863.2,No
+P00247,2023-05-04,2023-05-13,General Medicine,Diabetes,Male,36.0,Dr. Brown,Recovered,Yes,General,New York,4716.65,No
+P00248,2024-01-08,2024-01-12,Neurology,Heart Disease,Female,27.0,Dr. Lee,Recovered,No,General,Phoenix,5829.61,No
+P00249,2023-04-16,2023-04-20,Oncology,Heart Disease,Female,30.0,Dr. Smith,Recovered,No,General,Phoenix,3526.27,No
+P00250,2023-12-17,2023-12-29,Neurology,Stroke,Female,74.0,Dr. Patel,Recovered,Yes,ICU,Phoenix,4663.05,No
+P00251,2023-08-29,2023-09-08,Neurology,Diabetes,Female,61.0,Dr. Johnson,Recovered,No,Emergency,Chicago,7096.12,No
+P00252,,2024-01-24,Orthopedics,Covid-19,Female,47.0,Dr. Lee,Deceased,No,General,Chicago,4887.28,No
+P00253,2024-12-26,2025-01-07,Pediatrics,Diabetes,Female,9.0,Dr. Lee,Recovered,No,Emergency,,4305.58,No
+P00254,2023-06-01,2023-06-02,Cardiology,Covid-19,Male,26.0,Dr. Johnson,Recovered,No,ICU,Los Angeles,3377.87,No
+P00255,2024-09-03,2024-09-15,Pediatrics,Flu,Female,39.0,Dr. Smith,Recovered,Yes,General,Phoenix,3746.98,No
+P00256,2024-11-17,2024-11-18,Pediatrics,Diabetes,Female,33.0,Dr. Johnson,Recovered,Yes,General,Chicago,8217.72,Yes
+P00257,2024-10-16,2024-10-19,Neurology,Stroke,Female,71.0,Dr. Lee,Recovered,No,ICU,Houston,,No
+P00258,2023-11-16,2023-11-19,Pediatrics,Flu,Female,7.0,Dr. Patel,Recovered,No,Emergency,Chicago,2472.03,No
+P00259,2023-06-16,2023-06-25,Neurology,Covid-19,Male,75.0,Dr. Brown,Deceased,Yes,ICU,Phoenix,5454.03,No
+P00260,2023-06-16,2023-06-29,Pediatrics,Fracture,Female,36.0,Dr. Patel,Recovered,No,Emergency,Los Angeles,4198.78,No
+P00261,2024-10-09,2024-10-10,Pediatrics,Heart Disease,Female,70.0,Dr. Patel,Recovered,Yes,Emergency,Los Angeles,3861.44,No
+P00262,2024-06-22,2024-06-27,,Heart Disease,Male,8.0,Dr. Lee,Recovered,No,General,Los Angeles,5050.19,No
+P00263,2024-01-16,2024-01-26,Cardiology,Cancer,Female,3.0,Dr. Johnson,Recovered,Yes,General,New York,2750.62,No
+P00264,2024-04-15,2024-04-29,Oncology,Cancer,Male,8.0,Dr. Lee,Recovered,Yes,ICU,Los Angeles,3005.54,No
+P00265,2024-04-21,2024-04-30,Orthopedics,Flu,Male,55.0,Dr. Johnson,Recovered,Yes,General,New York,7375.2,No
+P00266,2024-10-09,2024-10-13,General Medicine,Stroke,Male,3.0,Dr. Johnson,Recovered,No,ICU,New York,4539.83,No
+P00267,2023-04-14,2023-04-20,General Medicine,Flu,Female,,Dr. Smith,Recovered,No,Emergency,New York,6159.66,Yes
+P00268,2024-02-10,2024-02-12,General Medicine,Fracture,Male,72.0,Dr. Brown,Recovered,Yes,Emergency,Los Angeles,3267.23,No
+P00269,2024-07-03,2024-07-07,Cardiology,Stroke,Female,14.0,Dr. Johnson,Recovered,No,General,Los Angeles,3264.88,No
+P00270,2024-03-24,2024-04-04,Cardiology,Heart Disease,Female,67.0,Dr. Johnson,Recovered,No,General,Houston,2693.23,No
+P00271,2023-11-07,2023-11-13,General Medicine,Stroke,Female,35.0,Dr. Brown,Recovered,No,ICU,Chicago,2009.1,No
+P00272,2024-07-14,2024-07-24,Pediatrics,Covid-19,Male,38.0,Dr. Lee,Recovered,,General,Los Angeles,6827.51,
+P00273,2024-10-31,2024-11-14,Cardiology,Diabetes,Male,6.0,Dr. Patel,Recovered,No,General,Phoenix,4180.61,Yes
+P00274,2023-05-10,2023-05-13,,Heart Disease,Female,82.0,Dr. Brown,Deceased,No,Emergency,Houston,6471.6,No
+P00275,2023-09-10,2023-09-16,Orthopedics,Diabetes,Female,33.0,Dr. Patel,Recovered,No,Emergency,Chicago,7085.31,No
+P00276,2024-04-27,2024-05-06,General Medicine,Stroke,Female,6.0,Dr. Johnson,Recovered,No,ICU,New York,5836.72,Yes
+P00277,2024-06-20,2024-06-24,Orthopedics,Flu,Male,45.0,Dr. Johnson,Recovered,No,ICU,Phoenix,2296.39,No
+P00278,2024-10-19,2024-11-01,Cardiology,Stroke,Female,60.0,Dr. Johnson,Recovered,Yes,Emergency,Phoenix,4030.21,Yes
+P00279,2023-05-10,2023-05-22,Orthopedics,Covid-19,Male,23.0,Dr. Brown,Recovered,Yes,ICU,Chicago,4679.84,Yes
+P00280,2024-11-20,2024-12-03,General Medicine,Diabetes,Female,31.0,Dr. Brown,Recovered,No,General,New York,7236.09,No
+P00281,2023-04-09,2023-04-14,Oncology,Diabetes,Female,73.0,Dr. Johnson,Recovered,,ICU,New York,5822.79,No
+P00282,2024-09-06,2024-09-14,Cardiology,Heart Disease,Female,17.0,Dr. Patel,Recovered,No,ICU,New York,3616.35,No
+P00283,2024-02-24,2024-03-07,Neurology,Cancer,Male,38.0,Dr. Patel,Recovered,Yes,General,New York,4807.24,No
+P00284,2024-06-02,2024-06-13,Neurology,Fracture,Male,86.0,Dr. Lee,Recovered,No,General,Phoenix,6484.05,No
+P00285,2024-05-24,2024-05-31,Neurology,Diabetes,Male,2.0,Dr. Johnson,Recovered,No,ICU,New York,5580.45,No
+P00286,2024-02-27,2024-03-03,Orthopedics,Fracture,Male,65.0,Dr. Patel,Recovered,No,ICU,New York,7051.49,No
+P00287,2024-11-23,2024-11-25,Cardiology,Cancer,Male,45.0,Dr. Lee,Recovered,No,General,Chicago,6224.18,No
+P00288,2023-07-02,2023-07-07,,Flu,Male,26.0,Dr. Lee,Recovered,No,ICU,Chicago,3037.93,No
+P00289,2024-08-16,,Neurology,Diabetes,Male,52.0,Dr. Lee,Recovered,No,ICU,Phoenix,5437.17,No
+P00290,2023-05-10,2023-05-22,Cardiology,Fracture,Male,48.0,Dr. Smith,Recovered,No,Emergency,Houston,3903.98,Yes
+P00291,2023-08-20,2023-08-25,Pediatrics,Fracture,Male,28.0,Dr. Lee,Recovered,No,General,Los Angeles,5414.82,No
+P00292,2023-06-22,2023-06-25,General Medicine,Flu,Male,69.0,Dr. Smith,Recovered,No,Emergency,Los Angeles,6199.25,No
+P00293,2023-07-19,2023-07-28,Neurology,Covid-19,Male,87.0,Dr. Johnson,Recovered,Yes,Emergency,Phoenix,2979.31,No
+P00294,2024-02-03,2024-02-06,General Medicine,Fracture,Female,7.0,Dr. Brown,Recovered,No,General,Chicago,3542.58,No
+P00295,2023-12-16,2023-12-22,Oncology,Cancer,Female,8.0,Dr. Smith,Recovered,Yes,Emergency,Houston,6494.07,No
+P00296,2024-04-07,2024-04-09,Neurology,Stroke,Male,67.0,Dr. Johnson,Recovered,,Emergency,Houston,3864.81,No
+P00297,2023-06-18,2023-06-27,Cardiology,Covid-19,Male,62.0,Dr. Johnson,Recovered,No,ICU,Phoenix,4890.4,No
+P00298,2024-11-23,2024-12-05,Cardiology,Flu,Male,11.0,Dr. Brown,Recovered,Yes,ICU,Los Angeles,3399.48,No
+P00299,2024-10-26,2024-11-03,Oncology,Stroke,Male,59.0,Dr. Lee,Recovered,No,Emergency,Chicago,4232.82,No
+P00300,2023-06-21,2023-06-24,Oncology,Heart Disease,Male,46.0,Dr. Johnson,Recovered,No,Emergency,Houston,3859.4,No
+P00301,2023-08-10,2023-08-17,Oncology,Flu,Female,39.0,Dr. Brown,Recovered,No,Emergency,Los Angeles,6256.34,No
+P00302,2023-10-29,2023-11-06,Cardiology,Fracture,Female,7.0,Dr. Smith,Recovered,Yes,ICU,Chicago,3779.53,
+P00303,2024-10-23,2024-11-03,Pediatrics,Flu,Male,89.0,Dr. Brown,Recovered,Yes,ICU,Phoenix,4858.44,No
+P00304,2023-10-10,2023-10-12,Orthopedics,Cancer,Female,79.0,Dr. Smith,Recovered,No,Emergency,Houston,4871.16,No
+P00305,2024-11-13,2024-11-18,,Flu,Female,61.0,Dr. Smith,Recovered,No,Emergency,New York,5244.0,No
+P00306,2023-08-17,2023-08-25,General Medicine,Covid-19,Male,58.0,Dr. Patel,,No,General,Los Angeles,3715.54,No
+P00307,2024-03-24,2024-03-28,Cardiology,Cancer,Female,64.0,Dr. Johnson,Recovered,No,Emergency,Houston,7504.86,No
+P00308,2023-03-07,2023-03-16,Cardiology,Stroke,Female,13.0,Dr. Brown,Recovered,No,Emergency,New York,5592.01,No
+P00309,2023-11-10,2023-11-16,Oncology,Flu,Female,12.0,Dr. Patel,Recovered,No,ICU,New York,4818.58,No
+P00310,2023-03-11,2023-03-19,Cardiology,Stroke,Male,83.0,Dr. Brown,Deceased,No,ICU,Los Angeles,5629.3,No
+P00311,2023-01-20,2023-01-30,Pediatrics,Cancer,Male,24.0,Dr. Lee,Recovered,Yes,ICU,Phoenix,4409.03,No
+P00312,2023-09-30,2023-10-07,,Stroke,Female,71.0,Dr. Smith,Recovered,No,ICU,Houston,4382.26,Yes
+P00313,2023-12-02,2023-12-12,Cardiology,Fracture,Male,55.0,Dr. Brown,Recovered,Yes,General,Los Angeles,8768.61,No
+P00314,2023-07-07,2023-07-19,Oncology,Fracture,Male,19.0,Dr. Patel,Recovered,Yes,ICU,New York,4491.71,Yes
+P00315,2023-04-19,2023-05-01,Oncology,Covid-19,Female,30.0,Dr. Brown,Deceased,No,General,New York,5122.34,No
+P00316,2023-12-16,2023-12-23,Neurology,Covid-19,Male,55.0,Dr. Brown,Recovered,No,ICU,Chicago,6959.84,Yes
+P00317,2024-04-20,2024-05-01,General Medicine,Stroke,Male,47.0,Dr. Johnson,Deceased,No,General,Chicago,3463.72,No
+P00318,2023-02-16,2023-02-27,Pediatrics,Heart Disease,Female,15.0,Dr. Brown,Recovered,No,ICU,Phoenix,7781.14,No
+P00319,2023-05-17,2023-05-27,Neurology,Diabetes,Female,16.0,Dr. Johnson,Recovered,No,General,New York,6076.99,No
+P00320,2024-12-10,2024-12-11,Pediatrics,Cancer,Female,51.0,Dr. Johnson,Recovered,No,,Chicago,7513.32,No
+P00321,2024-08-03,2024-08-16,,Flu,Female,64.0,Dr. Patel,Recovered,No,Emergency,Los Angeles,3245.12,No
+P00322,2023-09-17,2023-10-01,General Medicine,Flu,Female,39.0,Dr. Patel,Recovered,No,ICU,New York,1000.0,No
+P00323,2023-07-01,,Orthopedics,Covid-19,Male,60.0,Dr. Smith,Recovered,No,Emergency,Phoenix,4919.38,Yes
+P00324,2024-02-12,2024-02-24,Orthopedics,Stroke,Female,30.0,Dr. Lee,Recovered,No,General,Los Angeles,6219.44,No
+P00325,2023-09-27,2023-10-05,Pediatrics,Stroke,Female,10.0,Dr. Lee,Recovered,No,General,,7239.03,Yes
+P00326,2023-08-16,2023-08-24,Oncology,Fracture,Male,84.0,Dr. Brown,Recovered,No,General,Houston,4593.31,No
+P00327,2024-11-20,2024-11-21,General Medicine,Fracture,Male,7.0,Dr. Smith,Recovered,,General,Los Angeles,5526.93,No
+P00328,2023-07-18,2023-07-23,Pediatrics,Diabetes,Male,,Dr. Patel,Recovered,No,ICU,Los Angeles,7534.84,No
+P00329,2023-06-14,2023-06-24,Oncology,Stroke,Male,21.0,Dr. Patel,Recovered,No,General,Chicago,5440.34,No
+P00330,2024-01-19,2024-01-31,Oncology,Heart Disease,Female,61.0,Dr. Lee,Recovered,Yes,Emergency,New York,2965.13,No
+P00331,2024-05-04,2024-05-13,General Medicine,Flu,Female,71.0,Dr. Brown,,No,ICU,Chicago,6518.1,No
+P00332,2023-06-26,2023-06-27,Oncology,Covid-19,Female,70.0,Dr. Patel,,No,ICU,New York,1573.78,No
+P00333,,2024-06-02,Neurology,Flu,Female,22.0,Dr. Lee,Recovered,,General,Phoenix,1455.6,No
+P00334,2023-03-27,,Orthopedics,Stroke,Female,88.0,Dr. Brown,Recovered,Yes,ICU,Houston,3485.4,No
+P00335,2024-09-02,2024-09-05,General Medicine,Cancer,Male,63.0,Dr. Smith,Recovered,No,General,New York,5192.68,No
+P00336,2023-08-02,2023-08-10,General Medicine,Heart Disease,Female,85.0,Dr. Smith,Recovered,Yes,ICU,Phoenix,6598.79,No
+P00337,2024-01-16,2024-01-25,Orthopedics,Heart Disease,Female,40.0,Dr. Patel,Deceased,No,Emergency,New York,6324.66,No
+P00338,2023-08-15,2023-08-21,General Medicine,Cancer,Female,39.0,Dr. Johnson,Recovered,No,General,Houston,4883.24,No
+P00339,2024-12-09,2024-12-12,Orthopedics,Flu,Male,11.0,Dr. Johnson,Recovered,No,ICU,New York,6378.84,No
+P00340,2024-08-19,2024-08-27,Oncology,Covid-19,Female,55.0,Dr. Brown,Recovered,Yes,Emergency,,3997.78,No
+P00341,2023-07-29,2023-08-08,Cardiology,Cancer,,60.0,Dr. Patel,Recovered,No,ICU,Chicago,6250.71,No
+P00342,2024-09-17,2024-09-28,General Medicine,Cancer,Female,40.0,Dr. Brown,Recovered,No,Emergency,Los Angeles,4358.37,Yes
+P00343,2024-06-03,2024-06-08,Cardiology,Flu,Male,32.0,Dr. Smith,,Yes,General,Los Angeles,8093.79,Yes
+P00344,2024-06-27,2024-07-06,Oncology,,Female,12.0,Dr. Lee,Recovered,No,General,Phoenix,3398.7,No
+P00345,2023-04-19,2023-04-26,Pediatrics,Stroke,Female,21.0,Dr. Johnson,Recovered,No,Emergency,Houston,3707.12,No
+P00346,2023-05-11,2023-05-12,Cardiology,Covid-19,Female,68.0,Dr. Johnson,Recovered,No,Emergency,Houston,5545.32,Yes
+P00347,2024-10-06,2024-10-09,General Medicine,Stroke,Female,61.0,Dr. Lee,Recovered,No,Emergency,Los Angeles,5415.06,No
+P00348,2024-12-28,2024-12-30,Pediatrics,Stroke,Male,86.0,Dr. Johnson,,No,Emergency,New York,6098.21,No
+P00349,2023-10-04,2023-10-16,General Medicine,Fracture,Female,62.0,Dr. Lee,Recovered,No,Emergency,,5373.8,No
+P00350,2023-03-16,2023-03-25,,Stroke,Male,23.0,Dr. Smith,Recovered,No,General,Houston,5632.21,No
+P00351,2024-10-12,2024-10-26,Cardiology,Diabetes,Male,15.0,Dr. Smith,Recovered,Yes,Emergency,Phoenix,4266.36,No
+,2023-09-05,2023-09-17,Cardiology,Fracture,Female,47.0,Dr. Smith,Recovered,No,Emergency,Los Angeles,5445.96,No
+P00353,2024-10-01,2024-10-04,Pediatrics,Diabetes,Female,4.0,Dr. Johnson,Recovered,No,General,Los Angeles,4108.45,No
+P00354,2023-10-29,2023-11-02,Oncology,Stroke,Male,14.0,Dr. Brown,Recovered,No,ICU,New York,4711.51,No
+P00355,2023-07-26,2023-07-28,Oncology,Heart Disease,Male,6.0,Dr. Smith,Recovered,No,Emergency,Phoenix,4801.05,No
+P00356,2024-09-03,2024-09-08,Cardiology,Heart Disease,Female,72.0,Dr. Patel,Recovered,No,General,New York,3538.21,
+P00357,2024-05-21,2024-05-25,Neurology,Cancer,Female,25.0,Dr. Johnson,Recovered,Yes,General,New York,5811.3,No
+P00358,2023-06-22,2023-06-29,Pediatrics,Covid-19,Female,78.0,Dr. Johnson,Recovered,No,ICU,New York,6327.13,No
+P00359,2024-05-22,2024-05-25,Pediatrics,Covid-19,Male,47.0,Dr. Brown,Recovered,No,General,Houston,2449.69,No
+P00360,2023-11-30,2023-12-14,General Medicine,Heart Disease,Male,41.0,Dr. Brown,Recovered,No,ICU,Chicago,5792.45,No
+P00361,2024-09-28,2024-10-12,General Medicine,Flu,Male,86.0,Dr. Johnson,Recovered,Yes,ICU,New York,4843.33,No
+P00362,2024-10-31,2024-11-12,Neurology,Diabetes,Male,35.0,Dr. Smith,Recovered,No,ICU,Chicago,4746.77,No
+P00363,2024-10-22,2024-10-27,Pediatrics,Fracture,Male,48.0,Dr. Johnson,Recovered,No,Emergency,Chicago,5397.73,No
+P00364,2024-12-28,2024-12-29,Cardiology,Stroke,Male,8.0,Dr. Patel,Recovered,No,General,Phoenix,5962.9,No
+P00365,2024-08-10,2024-08-24,Orthopedics,Covid-19,,47.0,Dr. Johnson,Recovered,No,ICU,New York,4476.52,No
+P00366,2024-07-03,2024-07-07,Neurology,Heart Disease,Female,29.0,Dr. Johnson,Recovered,No,General,New York,4467.37,No
+P00367,2024-02-10,2024-02-22,General Medicine,Diabetes,Male,45.0,Dr. Lee,Deceased,No,ICU,Houston,4688.55,No
+P00368,2024-08-06,2024-08-13,Neurology,Heart Disease,Female,38.0,Dr. Patel,Recovered,No,Emergency,Chicago,2375.03,No
+P00369,2023-09-19,2023-09-29,Pediatrics,Diabetes,Female,27.0,Dr. Brown,Recovered,No,Emergency,Houston,2890.52,No
+P00370,2024-11-19,2024-12-02,Neurology,Cancer,Male,61.0,Dr. Johnson,Recovered,Yes,Emergency,Chicago,4875.34,No
+P00371,2024-07-08,2024-07-12,Pediatrics,Heart Disease,Female,39.0,Dr. Johnson,Recovered,No,General,Houston,2187.24,No
+P00372,2023-12-10,2023-12-15,Pediatrics,Flu,Female,49.0,Dr. Patel,Recovered,Yes,Emergency,Chicago,5172.54,No
+P00373,2023-07-02,2023-07-11,Oncology,Fracture,Male,39.0,Dr. Patel,Recovered,No,ICU,Houston,3937.39,No
+P00374,2023-11-28,2023-12-06,Neurology,,Female,72.0,Dr. Lee,Recovered,No,Emergency,New York,2729.43,No
+P00375,2023-10-28,2023-11-07,Pediatrics,Stroke,Male,69.0,Dr. Patel,Recovered,No,ICU,Phoenix,5217.3,No
+P00376,2023-11-20,2023-12-04,Pediatrics,Cancer,Female,33.0,Dr. Brown,Recovered,No,General,New York,4077.84,No
+P00377,2024-02-16,2024-02-24,Neurology,Covid-19,Female,84.0,Dr. Brown,Recovered,No,General,Chicago,6701.72,No
+P00378,2023-04-15,2023-04-25,Neurology,,Male,66.0,Dr. Lee,Recovered,No,ICU,Los Angeles,3781.39,No
+P00379,,2024-07-22,Oncology,Heart Disease,Male,73.0,Dr. Lee,Recovered,No,Emergency,New York,4081.34,No
+P00380,2024-11-08,2024-11-11,General Medicine,Cancer,Male,16.0,Dr. Brown,Deceased,No,Emergency,Chicago,5542.26,No
+P00381,2023-09-25,2023-09-28,Neurology,Fracture,Male,65.0,Dr. Brown,Recovered,No,ICU,Phoenix,4738.04,No
+P00382,2023-10-21,2023-11-02,Neurology,Fracture,Male,21.0,Dr. Smith,Recovered,No,Emergency,Chicago,2772.47,No
+P00383,2024-01-10,2024-01-19,General Medicine,Fracture,Male,53.0,Dr. Patel,Recovered,No,Emergency,Houston,4157.17,No
+P00384,2023-06-21,2023-06-30,General Medicine,Covid-19,Female,63.0,Dr. Lee,Recovered,No,ICU,Los Angeles,3007.09,Yes
+P00385,2023-04-28,2023-05-02,Neurology,Heart Disease,Female,33.0,Dr. Brown,Recovered,No,General,Chicago,5673.17,Yes
+P00386,2023-07-12,2023-07-16,Pediatrics,Heart Disease,Male,19.0,Dr. Brown,Recovered,No,General,Phoenix,,No
+P00387,2024-03-02,2024-03-13,Oncology,Fracture,Female,11.0,Dr. Johnson,Recovered,No,Emergency,New York,2556.66,No
+P00388,2023-07-23,2023-07-29,Oncology,Heart Disease,Male,65.0,Dr. Brown,Recovered,Yes,ICU,Los Angeles,6908.73,No
+P00389,2024-01-11,2024-01-19,Pediatrics,Heart Disease,Male,59.0,Dr. Lee,Recovered,Yes,Emergency,New York,4828.57,No
+P00390,2023-08-22,2023-08-25,Cardiology,Flu,Male,50.0,Dr. Brown,Recovered,Yes,Emergency,Chicago,4764.05,No
+P00391,2024-04-29,2024-05-09,Oncology,Cancer,Female,37.0,Dr. Brown,Deceased,No,General,Phoenix,5359.36,No
+P00392,2024-01-04,2024-01-17,Oncology,Flu,Male,77.0,Dr. Brown,Recovered,Yes,ICU,Houston,6355.88,Yes
+P00393,2023-10-05,2023-10-09,Pediatrics,Covid-19,Male,69.0,Dr. Lee,Recovered,No,Emergency,New York,7359.22,No
+P00394,2024-07-07,2024-07-09,Cardiology,Stroke,Male,32.0,Dr. Smith,Recovered,Yes,General,New York,5375.68,No
+P00395,2024-01-18,2024-01-30,Oncology,Covid-19,Female,21.0,Dr. Johnson,Deceased,No,General,New York,6442.13,No
+P00396,2024-04-27,2024-05-10,Neurology,Diabetes,Female,11.0,Dr. Patel,Recovered,No,General,New York,2262.91,No
+P00397,2023-04-14,2023-04-20,Oncology,Covid-19,Male,24.0,Dr. Smith,Recovered,No,General,Chicago,4302.03,No
+P00398,2023-06-13,2023-06-19,Cardiology,Cancer,Female,19.0,Dr. Patel,Recovered,No,ICU,Chicago,4841.08,No
+P00399,2024-11-15,2024-11-27,General Medicine,Stroke,Male,21.0,Dr. Patel,Recovered,No,ICU,New York,,No
+P00400,2024-06-07,2024-06-13,Neurology,Cancer,Male,17.0,Dr. Patel,Recovered,No,ICU,Houston,4407.8,Yes
+P00401,2024-08-04,2024-08-11,General Medicine,Heart Disease,,75.0,Dr. Patel,Recovered,No,ICU,Houston,5360.71,No
+P00402,2024-04-09,2024-04-12,Oncology,Cancer,Female,53.0,Dr. Johnson,Deceased,No,General,Chicago,1370.38,No
+P00403,2023-12-31,2024-01-03,Oncology,Diabetes,Male,,Dr. Lee,Deceased,Yes,Emergency,Los Angeles,3465.16,No
+,2023-11-19,2023-11-30,General Medicine,Diabetes,Male,69.0,Dr. Smith,Recovered,No,General,Houston,3808.36,No
+P00405,2024-12-20,2024-12-22,Cardiology,Stroke,Male,22.0,Dr. Johnson,Recovered,No,ICU,Houston,3840.68,No
+P00406,,2023-07-25,Neurology,Flu,Male,41.0,Dr. Lee,Recovered,No,General,Phoenix,5610.58,No
+P00407,2023-10-30,2023-11-02,Orthopedics,Fracture,Female,19.0,Dr. Lee,Recovered,No,Emergency,Houston,4814.41,No
+P00408,2024-07-02,2024-07-15,General Medicine,Stroke,Male,8.0,Dr. Johnson,Recovered,No,General,Chicago,4465.29,No
+P00409,2024-11-06,2024-11-09,Pediatrics,Flu,Male,66.0,Dr. Brown,Recovered,No,General,,3560.26,No
+P00410,2023-12-24,2024-01-04,Oncology,Flu,Male,72.0,Dr. Lee,Recovered,No,Emergency,New York,6462.58,No
+P00411,2023-10-17,2023-10-30,Neurology,Flu,Male,61.0,Dr. Smith,Recovered,No,General,New York,3926.12,
+P00412,2024-01-15,2024-01-21,Pediatrics,Stroke,Female,60.0,Dr. Smith,Recovered,No,ICU,Phoenix,5504.24,No
+P00413,2024-05-22,2024-05-24,Pediatrics,Cancer,Female,39.0,Dr. Smith,Recovered,No,Emergency,New York,4296.09,Yes
+P00414,2023-08-19,2023-08-24,Oncology,Flu,Male,39.0,Dr. Johnson,Recovered,No,ICU,Phoenix,3953.4,No
+P00415,2024-06-16,2024-06-19,Pediatrics,Fracture,Female,53.0,Dr. Smith,Recovered,No,ICU,Chicago,5897.09,No
+P00416,2023-03-15,2023-03-25,Oncology,Heart Disease,Male,72.0,Dr. Brown,Recovered,No,Emergency,Houston,3725.92,No
+P00417,2023-06-27,2023-07-09,Neurology,Cancer,Male,53.0,,Recovered,,General,Phoenix,3266.56,No
+P00418,2024-04-10,2024-04-22,Oncology,Fracture,Female,31.0,Dr. Patel,Recovered,Yes,ICU,New York,5097.9,No
+P00419,2023-03-16,2023-03-25,General Medicine,Heart Disease,Male,76.0,Dr. Smith,Recovered,Yes,General,New York,5840.46,No
+P00420,2024-12-26,2025-01-01,Cardiology,Heart Disease,Female,81.0,Dr. Johnson,Recovered,No,General,Phoenix,4076.56,Yes
+P00421,2023-11-21,,Cardiology,Cancer,Male,64.0,Dr. Patel,Recovered,Yes,Emergency,Houston,2981.19,No
+P00422,2024-03-03,2024-03-07,Pediatrics,Flu,Male,82.0,Dr. Johnson,Recovered,No,Emergency,Chicago,3771.11,No
+P00423,2024-09-15,2024-09-23,Pediatrics,Stroke,Male,76.0,Dr. Johnson,Recovered,Yes,ICU,Chicago,5117.52,No
+,2024-12-29,2025-01-06,General Medicine,Fracture,Female,55.0,Dr. Smith,Recovered,Yes,General,Los Angeles,4167.69,No
+P00425,2023-01-13,2023-01-18,Orthopedics,Diabetes,Female,33.0,Dr. Lee,Recovered,,Emergency,Los Angeles,5596.55,No
+P00426,2024-12-23,2025-01-04,Neurology,Cancer,Male,37.0,Dr. Johnson,,No,General,Chicago,5236.63,No
+P00427,2024-06-23,2024-07-02,Pediatrics,Stroke,Male,47.0,,Recovered,No,ICU,Chicago,4570.41,No
+P00428,2023-04-10,2023-04-12,Cardiology,Stroke,Female,16.0,Dr. Smith,Recovered,No,General,New York,5491.13,No
+P00429,2023-04-10,2023-04-23,Orthopedics,Cancer,Female,87.0,Dr. Patel,Recovered,,General,Houston,5564.61,No
+P00430,2023-01-28,2023-02-03,Neurology,Flu,Male,44.0,Dr. Smith,Recovered,No,General,Phoenix,3646.92,No
+P00431,2023-12-22,2023-12-27,General Medicine,Cancer,Male,13.0,Dr. Patel,Recovered,Yes,Emergency,Los Angeles,2384.23,No
+P00432,2024-07-11,2024-07-24,Neurology,Covid-19,Male,37.0,Dr. Smith,Recovered,No,ICU,Chicago,5178.53,No
+P00433,2024-02-02,2024-02-12,Pediatrics,Flu,Female,35.0,Dr. Patel,Recovered,No,ICU,Houston,8618.92,Yes
+P00434,2023-06-20,2023-06-29,Oncology,Cancer,Female,60.0,Dr. Smith,Recovered,No,ICU,Chicago,6176.91,No
+P00435,2024-11-17,2024-11-18,General Medicine,Cancer,Female,58.0,Dr. Smith,Recovered,No,ICU,Phoenix,4712.44,
+P00436,2024-02-25,2024-03-02,General Medicine,Diabetes,Male,7.0,Dr. Johnson,Recovered,No,ICU,Los Angeles,3962.57,No
+P00437,2024-06-02,2024-06-06,General Medicine,Stroke,Female,57.0,Dr. Brown,Recovered,Yes,General,Los Angeles,6483.0,No
+P00438,2024-09-14,2024-09-17,Orthopedics,Diabetes,Female,73.0,Dr. Lee,Recovered,No,General,New York,2972.83,No
+P00439,2024-05-18,2024-05-26,Neurology,Flu,Male,45.0,Dr. Lee,Recovered,No,Emergency,,4845.12,No
+P00440,,2024-04-27,Pediatrics,Fracture,Male,4.0,Dr. Lee,Deceased,No,Emergency,Chicago,2535.22,No
+P00441,2024-08-30,2024-09-03,Oncology,Flu,Female,50.0,Dr. Lee,Recovered,No,ICU,Los Angeles,3993.75,No
+P00442,2023-07-18,2023-07-28,Cardiology,Fracture,Female,57.0,Dr. Patel,Recovered,No,General,Houston,5944.55,No
+P00443,2023-09-24,2023-10-07,Pediatrics,Fracture,Female,53.0,Dr. Lee,Recovered,No,General,New York,5657.57,No
+P00444,2024-11-17,2024-11-21,Pediatrics,Diabetes,Male,88.0,Dr. Brown,Recovered,No,Emergency,Los Angeles,3452.42,Yes
+P00445,2024-11-16,2024-11-18,Orthopedics,Cancer,Male,26.0,Dr. Lee,Recovered,Yes,ICU,Chicago,,No
+P00446,2024-02-26,2024-03-08,Cardiology,Covid-19,Female,15.0,Dr. Smith,Recovered,No,,New York,8134.31,No
+P00447,2024-01-25,2024-01-31,Neurology,Cancer,Male,62.0,Dr. Smith,Recovered,No,ICU,Chicago,1682.21,Yes
+P00448,2024-06-01,2024-06-14,Cardiology,Flu,Female,8.0,Dr. Smith,Recovered,Yes,General,Chicago,7300.15,No
+P00449,2023-11-27,2023-12-10,Neurology,,Female,50.0,Dr. Patel,Recovered,No,Emergency,Phoenix,2602.81,No
+P00450,2023-01-19,2023-01-26,Neurology,Heart Disease,Female,55.0,Dr. Johnson,Recovered,Yes,Emergency,Los Angeles,5693.26,Yes
+P00451,2024-09-11,2024-09-14,Pediatrics,Fracture,Male,29.0,Dr. Lee,Recovered,No,General,New York,5040.02,No
+P00452,2023-09-04,2023-09-12,Pediatrics,Cancer,Male,13.0,Dr. Brown,Recovered,No,ICU,Houston,5858.14,No
+P00453,2024-08-28,2024-08-29,Cardiology,Cancer,Female,43.0,Dr. Patel,Recovered,Yes,ICU,Los Angeles,7226.17,No
+P00454,2023-05-17,2023-05-22,Orthopedics,Flu,Female,74.0,Dr. Patel,Recovered,No,General,Los Angeles,5533.42,No
+P00455,2023-09-12,2023-09-23,Oncology,Stroke,Female,85.0,Dr. Patel,Recovered,No,General,Chicago,5704.36,Yes
+,,2024-09-15,Oncology,Heart Disease,Female,67.0,Dr. Patel,Recovered,Yes,Emergency,Houston,6071.16,No
+P00457,2024-03-13,2024-03-21,Orthopedics,Stroke,Female,27.0,,Deceased,No,General,Los Angeles,1000.0,No
+P00458,2024-02-08,2024-02-13,Orthopedics,Flu,Female,35.0,Dr. Patel,Recovered,No,Emergency,Chicago,8000.55,No
+P00459,2023-01-17,2023-01-19,Pediatrics,Cancer,Female,45.0,Dr. Brown,Recovered,No,ICU,Houston,7068.06,No
+P00460,2023-02-27,2023-03-09,Pediatrics,Heart Disease,Male,20.0,Dr. Brown,Recovered,No,General,Los Angeles,3132.75,No
+,,2023-04-20,Orthopedics,Cancer,Male,65.0,Dr. Patel,Recovered,No,Emergency,Chicago,2689.63,No
+P00462,2023-04-09,2023-04-21,Neurology,Fracture,Female,26.0,Dr. Smith,Recovered,Yes,ICU,Los Angeles,7975.08,No
+P00463,2023-11-23,2023-12-03,Pediatrics,Diabetes,Male,40.0,Dr. Brown,Recovered,No,Emergency,Houston,2871.94,No
+P00464,2024-01-03,2024-01-06,Cardiology,Heart Disease,Male,46.0,Dr. Lee,Recovered,Yes,Emergency,New York,5320.47,Yes
+P00465,2023-09-28,2023-10-01,Oncology,Fracture,Male,37.0,Dr. Lee,Recovered,Yes,Emergency,Houston,6349.15,No
+P00466,2023-01-04,2023-01-07,General Medicine,Cancer,Male,34.0,Dr. Smith,Recovered,No,Emergency,Phoenix,6116.88,No
+P00467,2023-10-06,2023-10-19,General Medicine,Fracture,Male,69.0,Dr. Johnson,Recovered,No,Emergency,Los Angeles,8633.61,Yes
+P00468,2023-11-22,2023-11-27,Orthopedics,Diabetes,Female,57.0,Dr. Johnson,Deceased,No,General,Los Angeles,6286.66,No
+P00469,2023-11-13,2023-11-17,Oncology,Diabetes,Female,3.0,Dr. Smith,Recovered,Yes,ICU,Phoenix,4109.31,No
+,2024-02-24,2024-03-04,General Medicine,Stroke,Male,69.0,Dr. Smith,Recovered,No,General,Los Angeles,3551.36,No
+P00471,2024-06-20,2024-07-01,Orthopedics,Heart Disease,Male,51.0,Dr. Johnson,Recovered,No,,New York,7189.6,No
+P00472,2024-07-24,2024-07-31,Pediatrics,Heart Disease,Female,31.0,Dr. Brown,Recovered,Yes,General,New York,,No
+P00473,2023-09-11,2023-09-20,Oncology,Flu,Female,81.0,Dr. Johnson,,Yes,General,Phoenix,5975.68,No
+P00474,2023-06-02,2023-06-13,Oncology,Covid-19,Female,21.0,Dr. Patel,Recovered,No,General,Houston,2745.38,No
+P00475,2024-07-16,2024-07-20,Neurology,Diabetes,Male,81.0,Dr. Johnson,Recovered,No,General,Los Angeles,6622.91,No
+P00476,2023-01-01,2023-01-08,Neurology,Fracture,Male,39.0,Dr. Brown,Recovered,No,ICU,Chicago,6493.3,Yes
+P00477,2024-11-11,2024-11-24,Oncology,Diabetes,Male,73.0,Dr. Patel,Recovered,No,ICU,Chicago,6587.31,No
+P00478,2023-07-02,2023-07-03,General Medicine,Cancer,Female,81.0,,Recovered,Yes,Emergency,New York,6406.34,No
+P00479,,2023-05-12,Pediatrics,Flu,Female,18.0,Dr. Johnson,Recovered,No,General,Chicago,5384.08,No
+P00480,2024-11-04,2024-11-17,Pediatrics,Heart Disease,Female,4.0,Dr. Smith,Recovered,No,Emergency,Chicago,4515.14,No
+P00481,2023-06-17,2023-06-20,Cardiology,Diabetes,,65.0,Dr. Smith,Recovered,No,ICU,Los Angeles,5630.82,No
+P00482,2023-04-05,2023-04-09,Pediatrics,Diabetes,,44.0,Dr. Lee,Recovered,No,General,Los Angeles,4545.57,No
+P00483,2024-06-02,2024-06-16,Oncology,Fracture,Male,56.0,Dr. Lee,Recovered,No,Emergency,Phoenix,5040.58,No
+P00484,,2023-05-05,Pediatrics,Fracture,Male,12.0,Dr. Johnson,Recovered,No,Emergency,Los Angeles,5152.79,No
+P00485,2024-02-05,2024-02-11,Oncology,Diabetes,Female,5.0,Dr. Brown,Recovered,No,Emergency,Los Angeles,4196.3,No
+P00486,2023-07-16,2023-07-27,Oncology,Covid-19,,66.0,Dr. Brown,Recovered,No,General,Houston,2438.96,No
+P00487,2023-03-25,2023-03-31,Pediatrics,Flu,Male,7.0,Dr. Patel,Recovered,Yes,Emergency,Phoenix,7280.51,No
+P00488,,2023-02-06,General Medicine,Fracture,,82.0,Dr. Johnson,Recovered,No,Emergency,Chicago,4257.83,Yes
+P00489,2024-07-27,2024-08-09,Orthopedics,Fracture,Female,74.0,Dr. Patel,Recovered,No,Emergency,Houston,4654.4,No
+P00490,2024-04-18,2024-04-22,Cardiology,Heart Disease,Male,41.0,Dr. Johnson,Recovered,No,General,New York,3613.65,Yes
+P00491,2024-01-22,2024-02-01,General Medicine,Heart Disease,Female,89.0,Dr. Brown,Recovered,No,ICU,Los Angeles,7807.62,No
+P00492,2024-03-14,2024-03-21,General Medicine,Covid-19,Male,29.0,Dr. Smith,Recovered,Yes,General,Houston,5733.88,No
+P00493,2023-05-28,2023-06-09,Pediatrics,Heart Disease,Male,19.0,Dr. Patel,Recovered,No,ICU,New York,6784.87,No
+P00494,2024-03-18,2024-03-22,Cardiology,Covid-19,Male,59.0,Dr. Brown,Recovered,No,ICU,Phoenix,,No
+P00495,2023-06-03,2023-06-12,General Medicine,Covid-19,Male,10.0,Dr. Johnson,Recovered,No,ICU,New York,5896.6,No
+P00496,2023-10-11,2023-10-12,General Medicine,Flu,Female,45.0,Dr. Johnson,Recovered,No,Emergency,Phoenix,6949.96,No
+P00497,2024-10-11,2024-10-15,Orthopedics,Stroke,Male,73.0,Dr. Lee,Recovered,Yes,ICU,Houston,3703.41,No
+P00498,2023-05-07,2023-05-16,General Medicine,Cancer,Male,28.0,Dr. Johnson,Recovered,No,Emergency,Los Angeles,4788.61,No
+P00499,2023-09-05,2023-09-17,Pediatrics,,Male,17.0,Dr. Smith,Recovered,No,Emergency,New York,3563.44,No
+P00500,2023-05-31,2023-06-04,General Medicine,Diabetes,Male,47.0,Dr. Johnson,Recovered,No,General,Los Angeles,5974.94,Yes
+P00501,2023-10-26,2023-10-28,Cardiology,Cancer,Female,,Dr. Patel,Recovered,No,Emergency,New York,5690.49,No
+P00502,2024-08-28,2024-09-04,Oncology,Stroke,Female,10.0,Dr. Johnson,Recovered,No,General,Phoenix,2975.68,No
+P00503,2023-11-15,2023-11-28,Pediatrics,Fracture,Female,46.0,Dr. Lee,Recovered,No,Emergency,Phoenix,6466.35,No
+P00504,2024-05-23,2024-05-29,Neurology,Covid-19,Male,89.0,Dr. Brown,Recovered,No,ICU,Houston,3870.73,No
+P00505,2024-07-02,2024-07-11,Cardiology,Fracture,Male,82.0,Dr. Johnson,Recovered,No,Emergency,Chicago,2992.09,
+P00506,2024-11-10,2024-11-14,,Heart Disease,Female,37.0,Dr. Johnson,Recovered,No,General,Phoenix,6039.38,No
+P00507,2024-05-26,2024-06-06,Orthopedics,Cancer,Male,58.0,Dr. Johnson,Recovered,No,ICU,Chicago,3964.42,No
+P00508,2023-07-26,2023-07-27,Pediatrics,Diabetes,Female,55.0,Dr. Smith,Recovered,Yes,General,Chicago,5006.14,No
+P00509,2024-09-05,2024-09-11,Cardiology,Fracture,Male,85.0,Dr. Patel,Recovered,Yes,Emergency,Phoenix,5814.06,No
+P00510,2024-09-12,2024-09-16,Oncology,Flu,Male,83.0,Dr. Patel,Recovered,No,Emergency,New York,3441.71,No
+P00511,2024-03-19,2024-03-30,Orthopedics,Flu,Female,56.0,Dr. Smith,Recovered,No,General,Chicago,4592.78,No
+P00512,2023-11-07,2023-11-21,,Cancer,,32.0,Dr. Lee,,No,General,Los Angeles,5233.28,No
+P00513,2023-06-26,2023-07-06,Neurology,Fracture,Female,58.0,Dr. Smith,Recovered,No,General,Houston,4655.3,No
+P00514,2024-06-30,2024-07-07,Cardiology,Covid-19,Male,22.0,Dr. Lee,Recovered,No,General,Houston,3722.89,No
+P00515,2023-03-17,2023-03-24,Orthopedics,Diabetes,Male,80.0,,Recovered,No,ICU,Los Angeles,3345.46,No
+P00516,2024-10-14,2024-10-28,Oncology,Diabetes,Male,23.0,Dr. Smith,Recovered,No,General,Houston,5538.53,No
+,2024-04-29,2024-05-05,Orthopedics,,Female,18.0,Dr. Brown,Recovered,No,ICU,Chicago,3517.6,No
+P00518,2024-05-13,2024-05-27,Neurology,Heart Disease,Male,10.0,Dr. Smith,Recovered,No,General,Phoenix,2325.94,No
+P00519,2023-08-22,2023-09-03,Orthopedics,Covid-19,Female,11.0,Dr. Smith,Recovered,Yes,Emergency,Houston,2933.57,No
+P00520,2024-02-16,2024-02-24,Cardiology,,Female,72.0,Dr. Johnson,Deceased,No,ICU,Houston,4152.84,No
+P00521,2024-04-25,2024-04-28,Orthopedics,Stroke,Male,67.0,Dr. Brown,Recovered,No,General,Phoenix,5000.67,No
+P00522,2023-04-03,2023-04-16,Oncology,Cancer,Male,48.0,Dr. Lee,Recovered,Yes,ICU,New York,3054.25,No
+P00523,2024-10-01,2024-10-09,Neurology,Stroke,Male,26.0,Dr. Patel,Recovered,Yes,General,Los Angeles,6123.63,No
+P00524,2023-04-13,2023-04-18,Pediatrics,Diabetes,Male,65.0,Dr. Smith,Recovered,No,Emergency,Los Angeles,6663.18,Yes
+P00525,2024-01-22,2024-02-04,Cardiology,Heart Disease,Male,32.0,Dr. Johnson,Recovered,No,ICU,Los Angeles,6373.13,No
+P00526,2023-04-03,2023-04-12,Oncology,Heart Disease,Female,86.0,Dr. Lee,Recovered,No,Emergency,Los Angeles,6610.07,No
+P00527,2023-07-18,2023-08-01,Oncology,Stroke,Female,29.0,Dr. Brown,Recovered,No,Emergency,New York,4864.81,Yes
+P00528,2024-06-25,2024-07-04,General Medicine,Heart Disease,Male,18.0,Dr. Lee,,No,Emergency,Los Angeles,6535.08,Yes
+P00529,2024-06-17,2024-06-23,Pediatrics,Diabetes,Female,76.0,Dr. Johnson,Recovered,No,ICU,Chicago,5231.91,No
+P00530,2023-03-23,2023-03-25,Oncology,Covid-19,Female,77.0,Dr. Johnson,Recovered,No,Emergency,Chicago,6770.07,No
+P00531,2024-09-26,2024-10-06,Oncology,Diabetes,Male,67.0,Dr. Smith,Recovered,No,ICU,Houston,4063.48,No
+P00532,2024-05-21,2024-06-02,General Medicine,Fracture,Female,75.0,Dr. Lee,Recovered,No,General,Los Angeles,4723.21,Yes
+P00533,2023-08-23,2023-08-25,Neurology,Covid-19,Male,62.0,Dr. Lee,Recovered,No,Emergency,Phoenix,3855.31,No
+P00534,2023-02-17,2023-02-26,Neurology,Heart Disease,Female,36.0,Dr. Johnson,Recovered,No,General,Los Angeles,,No
+P00535,2024-03-04,2024-03-18,General Medicine,,Female,39.0,Dr. Smith,Recovered,No,General,Houston,3798.53,No
+P00536,2023-08-08,2023-08-14,Cardiology,Cancer,Female,29.0,Dr. Patel,Recovered,No,ICU,Chicago,7259.63,No
+P00537,2024-07-29,2024-08-08,Cardiology,Heart Disease,Female,36.0,Dr. Patel,Recovered,No,ICU,Houston,3810.31,No
+P00538,2023-09-24,2023-09-30,Cardiology,Covid-19,Female,16.0,Dr. Brown,Recovered,No,ICU,New York,6591.22,No
+P00539,2024-01-21,2024-02-04,Neurology,Stroke,Female,76.0,Dr. Johnson,Recovered,No,Emergency,Houston,8116.07,No
+P00540,2024-01-06,2024-01-16,Orthopedics,Heart Disease,Female,23.0,Dr. Smith,Recovered,No,Emergency,Chicago,7131.92,No
+P00541,2024-05-19,2024-05-22,Cardiology,,Female,38.0,Dr. Lee,Recovered,No,Emergency,,6946.13,No
+P00542,2024-09-13,2024-09-26,Cardiology,Cancer,Female,27.0,Dr. Brown,Recovered,No,Emergency,New York,5171.52,No
+P00543,2023-07-26,2023-07-30,Cardiology,Fracture,Female,23.0,Dr. Lee,Deceased,No,Emergency,Houston,6108.96,No
+P00544,2024-01-27,2024-01-28,Pediatrics,Fracture,Female,37.0,Dr. Johnson,Recovered,Yes,ICU,Houston,6224.51,No
+P00545,2024-11-05,2024-11-10,General Medicine,Stroke,Male,60.0,Dr. Smith,,No,ICU,Chicago,6018.71,No
+P00546,2024-03-30,2024-04-07,Cardiology,Stroke,Female,,Dr. Lee,Recovered,No,Emergency,Houston,4546.93,No
+P00547,2023-07-01,2023-07-14,Cardiology,Fracture,Female,,,Recovered,No,ICU,Chicago,6742.1,No
+P00548,2024-04-02,2024-04-05,General Medicine,Covid-19,Male,35.0,Dr. Smith,Recovered,No,ICU,Phoenix,3783.11,No
+P00549,2024-04-03,2024-04-14,General Medicine,Cancer,Female,,Dr. Johnson,Recovered,No,ICU,Houston,6622.65,No
+P00550,2023-06-15,2023-06-29,Cardiology,Flu,Male,24.0,Dr. Brown,Recovered,No,General,Chicago,3031.67,Yes
+P00551,2023-07-26,,Pediatrics,Diabetes,Male,58.0,Dr. Brown,Recovered,No,General,Phoenix,5373.96,No
+P00552,2024-07-26,2024-08-08,Cardiology,Cancer,Female,19.0,Dr. Smith,Recovered,No,ICU,Los Angeles,6567.63,No
+P00553,2023-10-03,2023-10-06,Oncology,Covid-19,Female,87.0,Dr. Lee,Recovered,No,ICU,Los Angeles,5551.47,No
+P00554,2024-07-16,2024-07-21,Neurology,Diabetes,Male,12.0,Dr. Johnson,Recovered,No,Emergency,New York,1849.96,No
+P00555,2024-11-08,2024-11-17,Neurology,Heart Disease,Male,14.0,Dr. Johnson,,No,Emergency,Phoenix,6784.27,No
+P00556,2024-04-15,2024-04-26,,Fracture,Female,21.0,Dr. Smith,Recovered,Yes,Emergency,Los Angeles,6756.68,No
+P00557,2023-07-01,2023-07-11,Cardiology,Diabetes,Female,22.0,Dr. Lee,Recovered,No,General,Chicago,3191.0,No
+P00558,2024-12-26,2024-12-28,Orthopedics,Diabetes,Male,47.0,Dr. Patel,Recovered,No,General,Chicago,5560.24,Yes
+P00559,2024-03-09,,Cardiology,Heart Disease,Female,59.0,Dr. Smith,Recovered,No,Emergency,New York,3529.61,No
+P00560,2024-03-13,2024-03-23,Neurology,Stroke,Female,75.0,Dr. Patel,Recovered,No,ICU,Houston,9592.92,Yes
+P00561,2023-01-08,2023-01-21,Cardiology,Diabetes,Female,,Dr. Lee,Recovered,No,General,New York,2917.72,
+P00562,2024-06-02,2024-06-15,Oncology,Fracture,Female,59.0,Dr. Lee,Recovered,Yes,ICU,Chicago,5954.61,No
+P00563,2023-03-29,2023-04-07,Pediatrics,Cancer,Male,35.0,Dr. Johnson,Recovered,No,ICU,New York,6299.48,No
+P00564,2023-07-26,2023-07-31,Oncology,Stroke,Male,20.0,Dr. Smith,Recovered,No,Emergency,Los Angeles,7411.46,No
+P00565,2023-03-05,2023-03-15,Oncology,Fracture,Female,29.0,Dr. Johnson,Recovered,No,ICU,Phoenix,4734.84,No
+P00566,2024-07-17,2024-07-22,Cardiology,Diabetes,Male,84.0,Dr. Brown,Deceased,No,Emergency,New York,2677.07,No
+P00567,2023-10-23,2023-11-04,Cardiology,Stroke,Female,56.0,Dr. Patel,Recovered,No,Emergency,New York,3114.86,Yes
+P00568,2024-10-11,2024-10-18,Orthopedics,Covid-19,Male,28.0,Dr. Patel,Recovered,No,ICU,Phoenix,,Yes
+P00569,2023-04-11,2023-04-21,Orthopedics,Flu,Female,86.0,Dr. Lee,Recovered,No,General,Phoenix,4266.73,No
+P00570,2023-01-11,2023-01-23,Oncology,Stroke,,46.0,Dr. Johnson,Recovered,Yes,,Los Angeles,4582.35,
+P00571,2024-02-28,2024-03-13,Pediatrics,Cancer,Male,24.0,Dr. Johnson,Recovered,No,ICU,Houston,3730.03,No
+P00572,2024-05-04,2024-05-13,Oncology,Heart Disease,Female,55.0,Dr. Patel,Recovered,No,Emergency,New York,4963.01,No
+P00573,2023-03-30,2023-04-01,Oncology,Diabetes,Female,76.0,Dr. Patel,Recovered,No,General,Houston,5590.7,No
+P00574,2023-02-01,2023-02-10,Pediatrics,Stroke,Male,40.0,Dr. Patel,Recovered,Yes,General,Houston,2108.49,No
+P00575,2024-12-20,2024-12-29,General Medicine,Fracture,Male,63.0,Dr. Patel,Recovered,No,ICU,Chicago,3797.81,No
+P00576,2024-03-14,2024-03-21,Oncology,Cancer,Male,68.0,Dr. Smith,Recovered,No,,Houston,5496.22,No
+,2023-08-17,2023-08-23,Orthopedics,Stroke,Female,83.0,Dr. Johnson,Recovered,No,General,Houston,4604.38,No
+P00578,2023-03-13,2023-03-22,Cardiology,Stroke,Male,77.0,Dr. Brown,Recovered,Yes,ICU,Phoenix,6503.98,No
+P00579,2023-08-08,2023-08-13,General Medicine,Flu,Male,67.0,Dr. Johnson,Recovered,Yes,General,Houston,4177.6,No
+P00580,2024-12-12,2024-12-19,Cardiology,Diabetes,Male,72.0,Dr. Smith,Recovered,No,General,Phoenix,6250.0,No
+P00581,2024-01-22,2024-02-02,Orthopedics,Flu,Female,76.0,Dr. Lee,Recovered,No,General,Houston,4203.18,No
+P00582,2023-10-14,2023-10-28,General Medicine,Fracture,Male,85.0,Dr. Lee,Recovered,No,General,Chicago,5725.81,No
+P00583,2024-06-08,2024-06-21,Oncology,Fracture,Male,42.0,Dr. Smith,Recovered,No,General,Chicago,4044.04,No
+P00584,2023-09-30,2023-10-08,Pediatrics,Flu,Female,58.0,Dr. Brown,Recovered,No,ICU,Houston,5687.58,No
+P00585,2023-11-24,2023-12-02,General Medicine,Stroke,Male,59.0,Dr. Patel,Recovered,No,Emergency,New York,1642.65,No
+P00586,2023-09-29,2023-10-06,Neurology,Heart Disease,Female,2.0,Dr. Brown,Recovered,No,ICU,Chicago,1818.95,No
+P00587,2023-01-13,2023-01-15,Pediatrics,Stroke,Female,,Dr. Smith,Recovered,Yes,General,Chicago,4100.95,No
+P00588,2024-09-19,2024-09-28,Pediatrics,Cancer,Male,52.0,Dr. Patel,Recovered,No,Emergency,Phoenix,3334.99,Yes
+P00589,2024-11-22,2024-12-06,Orthopedics,Fracture,Female,33.0,Dr. Lee,Recovered,No,ICU,Houston,3833.91,No
+P00590,2023-05-20,2023-05-21,Oncology,Covid-19,Male,78.0,Dr. Johnson,Recovered,Yes,General,Los Angeles,6039.99,No
+P00591,2023-09-25,2023-09-26,Pediatrics,Fracture,Female,42.0,Dr. Patel,Recovered,No,Emergency,Chicago,5487.52,No
+P00592,2024-12-25,2024-12-30,Cardiology,Cancer,Female,40.0,Dr. Johnson,Recovered,No,General,Chicago,4330.64,Yes
+P00593,2024-05-07,2024-05-10,Oncology,Flu,Female,54.0,Dr. Johnson,,No,General,Chicago,2489.77,No
+P00594,2024-03-25,,Oncology,Fracture,Male,83.0,Dr. Johnson,Recovered,No,Emergency,Chicago,4014.97,No
+P00595,2023-07-03,2023-07-09,Neurology,Heart Disease,Male,28.0,Dr. Patel,Recovered,No,,Los Angeles,5497.01,No
+P00596,2023-10-26,2023-10-30,Cardiology,Fracture,Male,58.0,Dr. Patel,Recovered,No,Emergency,Los Angeles,5800.1,No
+P00597,2023-08-16,2023-08-23,Cardiology,Flu,Male,60.0,Dr. Lee,Deceased,No,General,Chicago,4094.03,No
+P00598,2023-07-29,2023-08-06,Orthopedics,Flu,Female,63.0,Dr. Patel,Deceased,No,General,Houston,4655.68,No
+P00599,2024-05-06,2024-05-17,Oncology,Heart Disease,Male,9.0,Dr. Brown,Recovered,No,ICU,Houston,,No
+P00600,2024-05-25,2024-05-27,Oncology,Heart Disease,Male,67.0,Dr. Lee,Recovered,No,Emergency,New York,3109.53,No
+P00601,2023-10-09,2023-10-13,Oncology,Covid-19,Male,64.0,Dr. Johnson,Recovered,,Emergency,New York,4026.42,No
+P00602,2023-04-23,2023-04-26,Oncology,Stroke,Female,76.0,Dr. Lee,Recovered,No,ICU,Phoenix,4480.02,No
+P00603,2023-12-17,2023-12-19,General Medicine,Covid-19,Male,84.0,Dr. Lee,Recovered,No,General,Houston,4057.42,No
+P00604,2024-07-31,2024-08-14,Cardiology,Diabetes,Female,3.0,Dr. Johnson,Recovered,No,Emergency,New York,4517.51,No
+P00605,2024-12-26,2024-12-31,General Medicine,Diabetes,Male,62.0,Dr. Johnson,Recovered,Yes,General,Phoenix,5479.1,No
+P00606,2023-10-29,2023-11-07,Pediatrics,Covid-19,Male,21.0,Dr. Johnson,Recovered,No,ICU,Houston,5193.98,No
+P00607,2023-04-22,2023-05-04,Neurology,Flu,Male,47.0,Dr. Brown,Recovered,No,ICU,Los Angeles,7844.62,No
+P00608,2023-05-18,2023-05-27,Neurology,Diabetes,Male,52.0,Dr. Patel,Recovered,No,Emergency,Los Angeles,5329.68,No
+P00609,2023-01-05,2023-01-15,Cardiology,Flu,Male,53.0,Dr. Brown,Recovered,Yes,Emergency,Phoenix,5223.37,No
+P00610,2024-11-30,2024-12-03,Neurology,Diabetes,Male,30.0,Dr. Smith,Recovered,No,ICU,Chicago,3980.84,No
+P00611,2024-12-17,2024-12-28,Orthopedics,Flu,Male,72.0,Dr. Lee,Recovered,No,ICU,Phoenix,2138.29,Yes
+P00612,2024-07-17,2024-07-26,General Medicine,Stroke,Female,76.0,Dr. Johnson,Recovered,No,ICU,Houston,3709.42,No
+P00613,2024-01-20,2024-01-21,Pediatrics,Covid-19,Female,63.0,Dr. Patel,Recovered,No,ICU,Phoenix,4620.0,No
+P00614,2023-07-27,2023-08-04,Pediatrics,Cancer,Male,62.0,Dr. Johnson,Recovered,No,General,Chicago,5219.96,No
+P00615,2024-10-18,2024-10-24,Pediatrics,Flu,Female,81.0,Dr. Johnson,,No,Emergency,Houston,3065.35,No
+P00616,2024-10-16,2024-10-22,Cardiology,Stroke,Female,27.0,Dr. Lee,Recovered,,Emergency,New York,5400.48,No
+P00617,2023-03-01,2023-03-07,Oncology,Diabetes,Female,69.0,Dr. Johnson,Recovered,No,ICU,Houston,4235.29,No
+P00618,2024-06-15,2024-06-21,Orthopedics,Flu,Male,70.0,Dr. Smith,Recovered,No,ICU,Chicago,5051.66,No
+P00619,2023-09-06,2023-09-20,Orthopedics,Stroke,Female,78.0,Dr. Smith,Recovered,No,Emergency,Chicago,5400.01,No
+P00620,2024-02-23,2024-02-24,Oncology,Diabetes,Female,35.0,Dr. Brown,Recovered,No,ICU,Houston,3639.49,No
+P00621,2024-03-07,2024-03-19,Pediatrics,Flu,Female,24.0,Dr. Smith,Recovered,No,ICU,Houston,4302.17,No
+P00622,2023-05-21,2023-05-27,General Medicine,Stroke,Female,58.0,Dr. Smith,Recovered,No,ICU,Houston,4566.81,No
+P00623,2023-07-06,2023-07-18,Pediatrics,Stroke,Male,16.0,Dr. Patel,Recovered,No,General,New York,2728.29,No
+P00624,2023-06-20,2023-06-29,Orthopedics,Fracture,Female,45.0,Dr. Johnson,Recovered,Yes,Emergency,Phoenix,5482.39,No
+P00625,2023-04-13,2023-04-23,Cardiology,Diabetes,Male,57.0,Dr. Brown,Recovered,Yes,General,Chicago,4670.86,No
+P00626,2024-02-27,2024-03-10,Oncology,Covid-19,Male,43.0,Dr. Smith,Recovered,No,Emergency,Los Angeles,4866.62,Yes
+P00627,2024-09-25,2024-10-08,Oncology,Fracture,Male,4.0,Dr. Johnson,Recovered,No,Emergency,Houston,2648.44,No
+P00628,2024-04-01,2024-04-06,General Medicine,Stroke,Female,74.0,,Recovered,No,ICU,Chicago,4378.27,Yes
+P00629,2023-04-16,,Pediatrics,Stroke,Male,43.0,Dr. Smith,Deceased,No,General,New York,7261.45,
+P00630,2024-12-26,2025-01-03,Orthopedics,Heart Disease,Female,70.0,Dr. Brown,Recovered,Yes,General,Los Angeles,3961.77,No
+P00631,2024-05-29,2024-06-07,Oncology,Cancer,Male,60.0,Dr. Johnson,Recovered,No,Emergency,Los Angeles,2345.81,No
+P00632,2024-12-14,2024-12-17,Cardiology,Cancer,Male,47.0,Dr. Brown,Recovered,No,Emergency,Houston,4063.05,No
+P00633,2023-10-08,2023-10-20,Neurology,Covid-19,Female,25.0,Dr. Smith,Recovered,No,General,New York,3388.77,No
+P00634,2023-01-25,2023-02-08,Orthopedics,Diabetes,Female,48.0,Dr. Smith,Recovered,No,General,Phoenix,6923.97,Yes
+P00635,2024-02-09,2024-02-15,Orthopedics,Stroke,Male,45.0,Dr. Patel,Recovered,No,ICU,Los Angeles,3540.15,Yes
+P00636,,2023-03-06,Orthopedics,Covid-19,Female,75.0,Dr. Lee,Recovered,Yes,ICU,Phoenix,3554.43,No
+P00637,2023-07-06,2023-07-16,General Medicine,Heart Disease,Female,16.0,Dr. Lee,Recovered,No,ICU,Los Angeles,4866.15,No
+P00638,2023-11-29,2023-12-03,Cardiology,Cancer,Female,2.0,Dr. Brown,Recovered,No,ICU,Houston,4943.64,No
+P00639,2023-03-13,2023-03-20,Cardiology,Stroke,Female,63.0,Dr. Patel,Recovered,No,ICU,Houston,4851.36,
+P00640,2023-01-17,2023-01-30,Oncology,Diabetes,Male,81.0,Dr. Brown,Recovered,No,General,Houston,4095.77,No
+P00641,2024-12-20,2024-12-24,General Medicine,Flu,Female,28.0,Dr. Patel,Recovered,No,Emergency,New York,3488.6,No
+P00642,2023-03-12,2023-03-25,Pediatrics,Stroke,Male,52.0,Dr. Brown,Recovered,No,General,Houston,3540.62,No
+P00643,2023-08-16,2023-08-30,Oncology,Flu,Male,52.0,Dr. Lee,Recovered,No,ICU,Los Angeles,5912.66,No
+P00644,2024-10-21,2024-10-30,General Medicine,Heart Disease,Male,70.0,Dr. Patel,Recovered,No,General,Los Angeles,6071.48,No
+P00645,2023-05-26,2023-05-31,Pediatrics,Fracture,Male,54.0,Dr. Smith,Recovered,No,General,Houston,3581.38,No
+P00646,2023-08-09,2023-08-13,Orthopedics,Covid-19,Female,22.0,Dr. Patel,Recovered,No,Emergency,Phoenix,5912.37,No
+P00647,2024-07-03,2024-07-09,Neurology,Heart Disease,Female,,Dr. Lee,Recovered,No,ICU,Chicago,4436.76,No
+P00648,2024-09-29,2024-10-10,General Medicine,Cancer,Male,37.0,Dr. Smith,Recovered,Yes,ICU,Phoenix,6773.53,No
+P00649,2024-08-11,2024-08-21,Orthopedics,Flu,Male,9.0,Dr. Lee,Recovered,No,Emergency,Los Angeles,6339.43,No
+P00650,2023-12-05,2023-12-10,Orthopedics,Covid-19,Female,32.0,Dr. Patel,Recovered,No,ICU,Chicago,7744.43,No
+P00651,2023-11-12,2023-11-20,General Medicine,Stroke,Female,17.0,Dr. Brown,Recovered,No,Emergency,Houston,4915.21,No
+P00652,2023-12-07,2023-12-11,Orthopedics,Fracture,Male,71.0,Dr. Smith,Recovered,No,ICU,New York,4425.92,Yes
+P00653,2023-08-13,2023-08-24,Pediatrics,Stroke,Male,65.0,Dr. Johnson,Recovered,No,Emergency,New York,5690.38,No
+P00654,2024-06-14,2024-06-24,Neurology,Stroke,Female,75.0,Dr. Smith,Deceased,No,General,Houston,6963.72,No
+P00655,2023-01-12,2023-01-15,Pediatrics,Stroke,Female,27.0,Dr. Johnson,Recovered,No,Emergency,Phoenix,6103.43,No
+P00656,2024-11-08,2024-11-20,Pediatrics,Flu,Male,25.0,Dr. Lee,Recovered,No,General,Houston,7672.7,No
+P00657,2023-12-27,2024-01-02,Oncology,Diabetes,Female,42.0,,Recovered,No,ICU,Phoenix,4459.39,
+P00658,2023-10-10,2023-10-19,Oncology,Fracture,Male,80.0,Dr. Johnson,Recovered,No,ICU,Phoenix,4588.57,No
+P00659,2024-02-28,2024-03-08,General Medicine,Stroke,Female,76.0,Dr. Patel,Recovered,No,Emergency,Chicago,5649.67,No
+P00660,2024-07-31,2024-08-01,Pediatrics,Flu,Male,51.0,Dr. Lee,,Yes,Emergency,Los Angeles,5582.7,No
+P00661,2024-11-01,,Neurology,Fracture,Female,78.0,Dr. Smith,Recovered,No,,Houston,3248.75,Yes
+P00662,2024-09-13,2024-09-27,Neurology,Stroke,Female,18.0,Dr. Smith,Recovered,No,,Chicago,5482.33,No
+P00663,2023-05-30,2023-06-07,General Medicine,Stroke,Male,70.0,Dr. Smith,Recovered,No,Emergency,Houston,7852.34,No
+P00664,2024-12-29,2024-12-30,Oncology,Heart Disease,Male,45.0,Dr. Patel,Recovered,No,ICU,Phoenix,5367.23,No
+P00665,2024-04-24,2024-05-07,Neurology,Heart Disease,Female,16.0,Dr. Patel,Recovered,No,General,Chicago,6818.91,Yes
+P00666,2024-12-10,2024-12-22,General Medicine,Heart Disease,Male,16.0,Dr. Lee,Recovered,No,ICU,Houston,7602.25,No
+P00667,2024-07-11,2024-07-23,Orthopedics,Diabetes,Female,17.0,Dr. Lee,Recovered,No,Emergency,Houston,3859.72,No
+P00668,2024-09-07,2024-09-18,Oncology,Fracture,Male,78.0,Dr. Smith,Recovered,Yes,Emergency,Los Angeles,5430.7,No
+P00669,2024-04-20,2024-04-23,Cardiology,Diabetes,Male,54.0,Dr. Lee,Recovered,No,,Chicago,5184.66,No
+P00670,2024-08-29,2024-09-04,Orthopedics,Heart Disease,Male,66.0,Dr. Patel,Recovered,No,Emergency,Houston,6386.5,No
+P00671,2023-09-04,2023-09-05,Oncology,Fracture,Female,84.0,Dr. Patel,Recovered,Yes,Emergency,Houston,3806.47,Yes
+P00672,2024-06-15,2024-06-29,Neurology,Stroke,Male,67.0,Dr. Johnson,Recovered,No,General,New York,4724.23,No
+P00673,2024-12-06,2024-12-19,Orthopedics,Stroke,Male,84.0,Dr. Johnson,Recovered,No,ICU,New York,,No
+P00674,2024-04-19,2024-05-01,Oncology,Heart Disease,Male,76.0,Dr. Johnson,Recovered,No,Emergency,Houston,3593.11,No
+P00675,2023-08-31,2023-09-06,Pediatrics,Diabetes,Female,19.0,Dr. Lee,Recovered,No,ICU,Phoenix,4310.68,No
+P00676,2023-02-12,2023-02-15,Cardiology,Stroke,Female,72.0,Dr. Brown,Recovered,No,ICU,Houston,2392.83,No
+P00677,2023-01-26,2023-02-02,Oncology,Cancer,Female,43.0,Dr. Patel,Recovered,No,General,Phoenix,6527.53,No
+P00678,2023-07-26,2023-08-02,Neurology,Stroke,Female,78.0,Dr. Johnson,Recovered,No,ICU,Phoenix,5698.02,No
+P00679,2024-09-01,2024-09-12,Pediatrics,Flu,Female,19.0,Dr. Smith,Recovered,No,Emergency,Houston,6370.66,No
+P00680,2023-08-20,2023-08-28,General Medicine,Cancer,Male,59.0,Dr. Smith,Recovered,No,ICU,Houston,2681.41,Yes
+P00681,2023-12-25,2024-01-07,General Medicine,Cancer,Female,68.0,Dr. Johnson,Recovered,No,Emergency,Phoenix,1961.87,No
+P00682,2023-02-15,2023-02-20,Neurology,Flu,Female,88.0,Dr. Johnson,Recovered,No,Emergency,New York,6213.39,No
+P00683,2024-07-19,2024-07-28,Neurology,Flu,Female,4.0,Dr. Patel,Recovered,No,General,New York,1615.63,No
+P00684,2023-08-03,2023-08-16,Orthopedics,Cancer,Female,23.0,Dr. Smith,Recovered,No,ICU,Chicago,3232.34,No
+P00685,2023-02-23,2023-03-08,Orthopedics,Heart Disease,Female,83.0,Dr. Smith,Recovered,Yes,Emergency,Chicago,4998.28,No
+P00686,2024-02-18,2024-02-22,General Medicine,Flu,Female,45.0,Dr. Smith,Recovered,No,Emergency,Chicago,3916.9,No
+P00687,2024-09-09,2024-09-20,Oncology,Diabetes,Male,47.0,Dr. Patel,Recovered,No,General,Houston,3543.35,No
+P00688,2024-06-02,2024-06-08,Orthopedics,Diabetes,Female,81.0,Dr. Brown,Deceased,Yes,General,Houston,1635.57,No
+P00689,2024-01-26,2024-02-08,General Medicine,,Male,50.0,Dr. Smith,Recovered,No,ICU,New York,4580.28,No
+P00690,2024-10-05,2024-10-16,Orthopedics,Diabetes,Male,4.0,Dr. Johnson,Recovered,No,General,New York,3553.19,
+P00691,2023-10-18,2023-10-26,Pediatrics,Covid-19,Male,24.0,Dr. Smith,Recovered,No,ICU,New York,5185.88,No
+P00692,,2024-10-31,Oncology,Heart Disease,Female,29.0,Dr. Johnson,Recovered,Yes,Emergency,Phoenix,3812.44,No
+P00693,2023-09-17,2023-09-22,General Medicine,Heart Disease,Female,17.0,Dr. Lee,Recovered,No,Emergency,Los Angeles,5414.74,No
+P00694,2023-10-05,2023-10-16,Orthopedics,Diabetes,Female,66.0,Dr. Patel,Recovered,No,General,Houston,1000.0,No
+P00695,2024-11-23,2024-11-30,Pediatrics,Covid-19,Male,1.0,Dr. Smith,Recovered,No,General,Phoenix,3525.32,No
+P00696,2024-10-25,2024-10-31,Neurology,Diabetes,Female,19.0,Dr. Smith,Recovered,No,General,Houston,2571.79,No
+P00697,2023-02-02,2023-02-12,Cardiology,Cancer,Male,12.0,Dr. Patel,Deceased,Yes,ICU,Los Angeles,4115.14,No
+P00698,2023-09-28,2023-09-30,General Medicine,Diabetes,Male,52.0,Dr. Lee,Recovered,Yes,ICU,Phoenix,6266.42,No
+P00699,2023-05-15,2023-05-26,Oncology,Heart Disease,Female,82.0,Dr. Brown,Recovered,No,Emergency,New York,4088.97,No
+P00700,2024-08-02,2024-08-13,Orthopedics,Flu,Male,82.0,Dr. Smith,Recovered,No,General,Los Angeles,4884.17,Yes
+P00701,2024-03-25,2024-04-06,General Medicine,Heart Disease,Male,6.0,Dr. Lee,Recovered,No,Emergency,New York,4833.47,No
+P00702,2023-06-28,2023-07-05,Neurology,Covid-19,Male,49.0,Dr. Johnson,Recovered,Yes,Emergency,Chicago,5181.88,Yes
+P00703,2024-12-27,2025-01-01,Pediatrics,Heart Disease,Male,42.0,Dr. Lee,Recovered,No,Emergency,Los Angeles,1735.13,No
+P00704,2023-05-03,2023-05-06,General Medicine,Covid-19,Male,83.0,Dr. Lee,Recovered,No,General,Houston,6112.46,No
+P00705,2024-01-31,2024-02-06,General Medicine,Cancer,Male,77.0,Dr. Lee,Deceased,No,General,Phoenix,3756.61,No
+P00706,2024-11-21,2024-11-26,Oncology,Flu,Male,67.0,Dr. Johnson,Recovered,No,ICU,Los Angeles,4067.45,No
+P00707,2024-05-10,2024-05-19,Neurology,Cancer,Female,60.0,Dr. Brown,Recovered,Yes,ICU,New York,1026.35,No
+P00708,2023-07-27,2023-08-10,Pediatrics,Cancer,Female,72.0,Dr. Lee,Recovered,Yes,Emergency,Phoenix,7027.25,No
+P00709,2024-04-09,2024-04-21,Pediatrics,Covid-19,Male,26.0,Dr. Smith,Recovered,No,Emergency,Houston,,Yes
+P00710,2023-07-09,2023-07-22,Neurology,Fracture,Male,43.0,Dr. Brown,Recovered,Yes,ICU,,6382.56,Yes
+P00711,2024-03-16,2024-03-28,Neurology,Cancer,Female,51.0,Dr. Smith,Recovered,No,Emergency,Los Angeles,7672.31,No
+P00712,2023-03-09,2023-03-23,Oncology,Stroke,Female,67.0,Dr. Lee,Deceased,No,General,New York,3492.04,No
+P00713,2024-05-01,2024-05-15,Orthopedics,Diabetes,Male,45.0,Dr. Brown,Recovered,Yes,General,Houston,5744.3,No
+P00714,2024-01-05,2024-01-17,Orthopedics,Cancer,Female,77.0,Dr. Patel,Recovered,No,ICU,Phoenix,4197.02,No
+P00715,2023-02-04,2023-02-11,Cardiology,Cancer,Male,53.0,Dr. Lee,Recovered,No,General,Los Angeles,,No
+P00716,2024-12-26,2025-01-02,Pediatrics,Flu,Female,56.0,Dr. Lee,Recovered,No,Emergency,New York,7637.63,No
+P00717,2024-11-29,2024-11-30,Neurology,Cancer,Female,19.0,Dr. Johnson,Recovered,Yes,ICU,Phoenix,5459.18,No
+P00718,2023-10-21,2023-11-03,Neurology,Covid-19,Male,87.0,Dr. Brown,Recovered,Yes,Emergency,Houston,6176.45,No
+P00719,2024-02-23,2024-03-06,Orthopedics,Fracture,Female,45.0,Dr. Brown,Recovered,Yes,ICU,Los Angeles,4127.33,No
+P00720,2023-12-18,2024-01-01,Oncology,Diabetes,Female,77.0,Dr. Patel,Recovered,No,ICU,Houston,3239.18,No
+P00721,2023-11-09,2023-11-16,General Medicine,Flu,Female,23.0,Dr. Smith,Recovered,No,General,Phoenix,4724.77,Yes
+P00722,2023-12-13,2023-12-19,Cardiology,Flu,Female,9.0,Dr. Lee,Recovered,No,Emergency,Houston,2495.3,No
+P00723,2023-10-23,2023-11-05,Orthopedics,Heart Disease,Male,77.0,Dr. Patel,Recovered,No,General,Chicago,3607.44,No
+P00724,2023-10-24,,Orthopedics,Diabetes,Male,75.0,Dr. Patel,Recovered,No,General,Los Angeles,5851.64,Yes
+P00725,2024-10-15,2024-10-17,General Medicine,Cancer,Male,40.0,Dr. Smith,Recovered,No,ICU,Los Angeles,3665.97,No
+P00726,2023-02-04,2023-02-18,Oncology,Flu,Female,1.0,Dr. Johnson,Recovered,Yes,ICU,,7067.43,No
+P00727,2024-05-05,2024-05-07,General Medicine,Stroke,Male,89.0,Dr. Johnson,Recovered,No,ICU,Chicago,5663.12,No
+P00728,2024-10-02,2024-10-12,Cardiology,Stroke,Male,19.0,Dr. Johnson,Recovered,Yes,ICU,New York,6831.7,No
+P00729,2024-02-06,2024-02-08,General Medicine,Stroke,Male,89.0,Dr. Patel,Recovered,No,ICU,New York,7880.55,Yes
+P00730,2024-07-04,2024-07-14,Pediatrics,Stroke,Female,10.0,Dr. Smith,Recovered,No,ICU,Phoenix,3165.66,No
+P00731,2024-01-16,2024-01-25,General Medicine,Flu,Male,15.0,Dr. Brown,Recovered,No,Emergency,Houston,3331.13,No
+P00732,2023-05-23,2023-05-26,Pediatrics,Diabetes,Male,52.0,Dr. Smith,Recovered,No,ICU,Los Angeles,3454.54,No
+P00733,2024-09-14,2024-09-16,Oncology,Covid-19,Male,13.0,Dr. Brown,Recovered,No,ICU,Chicago,4403.73,No
+P00734,2023-07-10,2023-07-24,General Medicine,Diabetes,Female,9.0,Dr. Patel,Recovered,Yes,ICU,,4526.33,No
+P00735,2023-10-25,2023-11-07,Cardiology,Cancer,Female,36.0,Dr. Patel,Recovered,No,General,Los Angeles,6173.2,No
+P00736,2023-05-10,2023-05-16,Orthopedics,Stroke,Male,56.0,Dr. Lee,Recovered,No,ICU,Chicago,3813.65,No
+P00737,2023-05-31,2023-06-13,Orthopedics,Covid-19,Male,78.0,Dr. Patel,Recovered,No,,Houston,4742.42,No
+P00738,2023-07-02,2023-07-03,Cardiology,Diabetes,Male,2.0,Dr. Johnson,Deceased,No,ICU,Los Angeles,4742.04,No
+P00739,2024-01-10,2024-01-16,Cardiology,Stroke,Female,67.0,Dr. Brown,Recovered,No,General,Chicago,6935.39,No
+P00740,2024-04-11,2024-04-25,Pediatrics,Diabetes,Male,62.0,Dr. Brown,Recovered,No,General,Chicago,6146.16,No
+P00741,2023-08-05,2023-08-17,Oncology,Flu,Female,55.0,Dr. Smith,Recovered,Yes,ICU,Houston,6856.59,Yes
+P00742,2023-11-01,2023-11-10,Neurology,Stroke,Female,16.0,Dr. Patel,Recovered,Yes,General,Houston,7068.35,No
+P00743,2024-08-14,2024-08-18,Cardiology,Cancer,Male,83.0,Dr. Brown,Recovered,No,General,Los Angeles,4152.53,No
+P00744,2023-08-03,2023-08-09,Oncology,Stroke,Female,29.0,Dr. Brown,Recovered,Yes,General,Houston,5634.82,No
+P00745,2023-11-27,2023-12-07,General Medicine,Diabetes,Female,28.0,Dr. Brown,Recovered,No,General,Chicago,6789.1,
+P00746,2023-11-24,2023-11-27,Pediatrics,Cancer,Male,20.0,Dr. Patel,Recovered,No,ICU,Phoenix,3113.2,No
+P00747,2024-09-12,2024-09-13,Oncology,Covid-19,Female,29.0,Dr. Lee,Recovered,No,Emergency,Chicago,5830.05,No
+P00748,2024-09-07,2024-09-14,Cardiology,Covid-19,Male,27.0,Dr. Brown,,No,Emergency,Houston,4448.88,Yes
+P00749,2023-03-28,2023-04-06,General Medicine,Heart Disease,Male,75.0,Dr. Smith,Recovered,No,ICU,Phoenix,,No
+P00750,2023-07-28,2023-07-31,Oncology,Stroke,Female,48.0,Dr. Brown,Recovered,No,General,Houston,2234.13,No
+P00751,2024-03-21,2024-03-24,Oncology,Heart Disease,Male,14.0,Dr. Brown,Recovered,No,ICU,Chicago,6308.3,No
+P00752,2024-10-24,2024-10-26,Cardiology,Fracture,Female,50.0,Dr. Lee,Recovered,No,ICU,Chicago,4527.37,Yes
+P00753,2023-01-27,2023-01-29,General Medicine,Cancer,Male,36.0,Dr. Patel,Recovered,No,ICU,Los Angeles,6438.08,No
+P00754,2024-05-02,2024-05-15,Oncology,Cancer,Female,32.0,Dr. Smith,Deceased,No,ICU,Chicago,5512.86,No
+P00755,2024-06-29,2024-07-13,Oncology,Diabetes,Male,79.0,Dr. Patel,Recovered,No,General,Chicago,1000.0,No
+P00756,2024-12-04,2024-12-17,General Medicine,Heart Disease,Female,25.0,Dr. Johnson,Recovered,No,General,New York,6413.82,No
+P00757,2023-07-28,2023-08-02,Orthopedics,Heart Disease,Male,78.0,Dr. Johnson,Recovered,No,Emergency,Houston,1359.2,No
+P00758,2024-04-29,2024-05-01,Pediatrics,Cancer,Female,43.0,Dr. Brown,Recovered,No,Emergency,Phoenix,3694.41,No
+P00759,2024-08-19,2024-08-26,Neurology,Covid-19,Female,6.0,Dr. Smith,Recovered,No,General,Chicago,6670.54,No
+P00760,2024-03-01,2024-03-10,Oncology,Heart Disease,Male,66.0,Dr. Patel,Recovered,No,Emergency,New York,2082.4,No
+P00761,2023-10-05,2023-10-07,Pediatrics,Fracture,Male,55.0,Dr. Lee,Recovered,No,Emergency,Chicago,5559.99,No
+P00762,2024-05-27,,Pediatrics,Flu,Male,4.0,Dr. Johnson,Recovered,No,Emergency,Chicago,5945.59,No
+P00763,2024-06-27,2024-06-28,General Medicine,Diabetes,Male,28.0,Dr. Brown,Recovered,No,General,Los Angeles,6144.0,No
+P00764,2024-09-16,2024-09-29,Orthopedics,Cancer,Female,56.0,Dr. Patel,Recovered,No,Emergency,Phoenix,3777.82,No
+P00765,2023-10-22,2023-11-04,Neurology,Diabetes,Male,42.0,Dr. Lee,Recovered,No,Emergency,Houston,4857.64,No
+P00766,2024-12-08,2024-12-11,,Covid-19,Female,71.0,Dr. Lee,Recovered,No,Emergency,Los Angeles,5052.16,No
+P00767,2024-04-14,2024-04-24,Oncology,Fracture,Male,65.0,Dr. Patel,Recovered,No,ICU,Los Angeles,4376.74,No
+P00768,2024-06-04,2024-06-15,General Medicine,Cancer,Female,47.0,Dr. Smith,Recovered,No,ICU,Los Angeles,5971.11,No
+P00769,2023-05-08,2023-05-12,Cardiology,Covid-19,Female,88.0,Dr. Johnson,Recovered,No,ICU,,2991.26,No
+P00770,2024-11-27,2024-12-04,Pediatrics,Fracture,Female,60.0,Dr. Smith,Recovered,No,General,Los Angeles,5239.62,No
+P00771,2023-07-31,2023-08-14,Cardiology,Diabetes,Female,29.0,Dr. Johnson,Recovered,No,General,Phoenix,4315.84,No
+P00772,2023-05-02,2023-05-03,Oncology,Diabetes,Female,38.0,Dr. Patel,Recovered,Yes,ICU,Phoenix,6447.7,No
+P00773,2023-10-05,2023-10-08,Oncology,Fracture,Female,56.0,Dr. Brown,Recovered,No,Emergency,New York,7564.74,No
+P00774,2023-03-02,2023-03-08,Oncology,Cancer,Female,40.0,Dr. Lee,Recovered,Yes,ICU,Los Angeles,4746.92,No
+P00775,2024-12-04,2024-12-15,Pediatrics,Covid-19,Female,17.0,Dr. Johnson,Recovered,No,Emergency,Los Angeles,4041.15,No
+P00776,2024-03-27,2024-04-10,General Medicine,Flu,,78.0,Dr. Brown,Recovered,No,General,Phoenix,3663.67,No
+P00777,2024-03-09,2024-03-22,Cardiology,Diabetes,Female,81.0,Dr. Patel,Recovered,No,ICU,New York,6185.57,No
+P00778,2024-05-15,2024-05-25,Neurology,Diabetes,Female,,Dr. Lee,Recovered,No,ICU,Chicago,6950.79,No
+P00779,2024-06-18,2024-06-28,Pediatrics,Diabetes,Female,77.0,Dr. Smith,Deceased,No,General,Phoenix,4425.77,No
+P00780,2024-12-04,2024-12-15,Orthopedics,Stroke,Female,57.0,Dr. Patel,Recovered,No,ICU,,4814.41,No
+P00781,2024-08-21,2024-08-27,Cardiology,Covid-19,Female,80.0,Dr. Patel,Recovered,No,Emergency,Houston,3235.74,No
+P00782,2023-06-18,2023-06-27,Neurology,Flu,Male,23.0,Dr. Brown,Recovered,No,Emergency,New York,5731.34,No
+P00783,2023-02-12,2023-02-19,Cardiology,Flu,Male,1.0,Dr. Johnson,Recovered,No,General,Phoenix,5281.9,No
+P00784,2024-10-31,2024-11-04,Oncology,Stroke,,21.0,Dr. Brown,Recovered,Yes,Emergency,Houston,6008.45,
+P00785,2023-07-10,2023-07-20,Oncology,Covid-19,Male,51.0,Dr. Brown,Recovered,No,Emergency,Chicago,3522.21,No
+P00786,2024-12-21,2025-01-04,Oncology,Covid-19,Female,59.0,Dr. Smith,Recovered,Yes,Emergency,Chicago,7107.41,No
+P00787,2023-07-18,2023-07-31,Orthopedics,Fracture,Female,15.0,Dr. Johnson,Recovered,No,ICU,Houston,5196.31,No
+P00788,,2024-06-25,Pediatrics,Cancer,Female,48.0,Dr. Johnson,Recovered,No,General,Houston,3892.05,Yes
+P00789,2024-02-28,2024-03-13,Oncology,,Female,17.0,Dr. Brown,Recovered,No,Emergency,Los Angeles,2845.19,No
+P00790,2023-12-03,2023-12-04,General Medicine,Heart Disease,Female,50.0,Dr. Patel,Deceased,No,Emergency,Houston,4130.04,No
+P00791,2024-10-22,2024-10-24,Pediatrics,Flu,Male,55.0,Dr. Smith,Recovered,Yes,Emergency,Los Angeles,5553.55,No
+P00792,2024-07-10,2024-07-12,Neurology,Fracture,Male,17.0,Dr. Patel,Recovered,No,Emergency,Houston,5910.88,No
+P00793,2023-12-04,2023-12-15,Cardiology,Cancer,Male,20.0,Dr. Johnson,Recovered,No,Emergency,Houston,4783.41,No
+P00794,2023-09-04,2023-09-07,General Medicine,Heart Disease,Female,52.0,Dr. Smith,Recovered,,Emergency,Phoenix,4481.13,No
+P00795,2024-03-08,2024-03-10,General Medicine,Flu,Male,53.0,Dr. Johnson,Recovered,No,ICU,Chicago,2283.8,No
+P00796,,2024-11-29,General Medicine,Covid-19,Male,49.0,Dr. Johnson,Recovered,No,ICU,Los Angeles,5724.6,No
+P00797,2024-09-21,2024-09-28,Oncology,Stroke,Female,46.0,Dr. Smith,Recovered,No,General,Los Angeles,4501.01,Yes
+P00798,2023-09-23,2023-09-29,Orthopedics,Flu,Female,80.0,Dr. Johnson,Recovered,No,Emergency,Phoenix,6640.55,No
+P00799,2023-05-14,2023-05-18,Pediatrics,Stroke,Male,80.0,Dr. Brown,,No,,New York,5344.46,No
+P00800,2023-05-01,2023-05-14,Orthopedics,Covid-19,Female,84.0,Dr. Johnson,Recovered,No,General,Houston,3617.08,No
+P00801,2024-04-03,2024-04-05,General Medicine,Heart Disease,,14.0,Dr. Smith,Recovered,No,Emergency,Houston,5063.53,No
+P00802,2024-09-01,2024-09-13,Orthopedics,Flu,Female,26.0,Dr. Smith,Recovered,No,ICU,Chicago,5823.82,Yes
+P00803,2024-04-01,2024-04-08,General Medicine,Fracture,Male,79.0,Dr. Patel,Recovered,No,Emergency,Phoenix,5625.8,No
+P00804,2024-07-11,2024-07-14,General Medicine,Heart Disease,Female,55.0,Dr. Brown,Recovered,No,Emergency,New York,4049.79,No
+,2023-12-05,2023-12-07,Oncology,Covid-19,Female,44.0,Dr. Smith,Recovered,Yes,ICU,Houston,6512.01,No
+P00806,2023-02-20,2023-02-28,General Medicine,Fracture,Female,71.0,Dr. Brown,Recovered,No,General,New York,4175.59,No
+P00807,2024-07-18,2024-07-29,Neurology,Covid-19,Female,48.0,Dr. Patel,Recovered,No,General,Los Angeles,6179.91,No
+P00808,2024-11-23,2024-11-28,Oncology,Flu,Female,9.0,Dr. Johnson,Recovered,Yes,General,Houston,4186.64,
+P00809,2024-02-09,,Neurology,Cancer,Male,21.0,Dr. Lee,Recovered,No,Emergency,New York,5201.06,
+P00810,2024-05-17,2024-05-31,Pediatrics,Diabetes,Female,10.0,Dr. Johnson,Recovered,No,ICU,Chicago,5360.95,No
+P00811,2023-06-18,2023-06-28,Oncology,Diabetes,Female,17.0,Dr. Lee,Recovered,No,ICU,Chicago,8727.45,No
+P00812,2024-02-01,2024-02-03,Orthopedics,Cancer,Male,85.0,Dr. Johnson,Recovered,No,General,Phoenix,6878.92,No
+P00813,2024-10-03,2024-10-15,Oncology,Heart Disease,Male,81.0,Dr. Lee,Recovered,Yes,Emergency,Chicago,4769.77,Yes
+P00814,2024-10-13,2024-10-22,General Medicine,Cancer,Female,2.0,Dr. Johnson,Recovered,No,Emergency,Chicago,1910.29,No
+P00815,2024-06-05,2024-06-10,Pediatrics,Diabetes,Female,84.0,Dr. Lee,Recovered,No,General,Los Angeles,5212.33,No
+P00816,2024-10-22,2024-11-03,Neurology,Fracture,Female,50.0,Dr. Brown,Recovered,No,ICU,Los Angeles,1365.43,No
+P00817,2023-05-09,2023-05-19,Cardiology,Covid-19,Male,38.0,Dr. Patel,Recovered,No,ICU,Los Angeles,6274.43,Yes
+P00818,2024-01-25,2024-01-26,Orthopedics,Heart Disease,Female,51.0,Dr. Lee,Recovered,No,Emergency,Phoenix,4334.21,Yes
+P00819,2024-12-12,2024-12-17,General Medicine,Covid-19,Female,70.0,Dr. Brown,Recovered,No,Emergency,Los Angeles,1000.0,Yes
+P00820,2023-12-18,2023-12-30,Oncology,Diabetes,Male,48.0,Dr. Patel,Recovered,No,,Chicago,4055.17,No
+P00821,2024-06-27,2024-07-07,Orthopedics,Cancer,Female,26.0,Dr. Brown,Recovered,No,Emergency,Los Angeles,2836.91,No
+P00822,2024-07-29,2024-08-05,Orthopedics,Flu,Male,33.0,Dr. Brown,Recovered,No,ICU,New York,2184.16,No
+P00823,2023-08-14,2023-08-18,General Medicine,Heart Disease,Female,35.0,Dr. Johnson,Recovered,No,ICU,Los Angeles,3075.28,No
+P00824,2024-06-25,2024-07-07,Neurology,Stroke,Female,53.0,Dr. Patel,Recovered,No,Emergency,New York,6975.92,No
+P00825,2023-07-05,2023-07-15,General Medicine,Stroke,Female,36.0,Dr. Brown,Recovered,No,ICU,Phoenix,6799.46,No
+P00826,2023-10-02,2023-10-12,General Medicine,Heart Disease,Male,23.0,Dr. Johnson,Recovered,Yes,ICU,New York,5088.94,Yes
+P00827,2024-06-29,2024-07-04,Pediatrics,Diabetes,Male,8.0,Dr. Lee,Recovered,No,Emergency,New York,3404.53,No
+P00828,2024-11-28,2024-12-08,Oncology,Fracture,Male,76.0,Dr. Smith,Recovered,No,ICU,Phoenix,3958.28,No
+P00829,2024-04-29,2024-05-05,Orthopedics,Stroke,Male,76.0,Dr. Lee,Recovered,No,Emergency,Los Angeles,5186.23,No
+P00830,2023-09-11,2023-09-23,General Medicine,Diabetes,Male,73.0,Dr. Johnson,Recovered,No,Emergency,Houston,6064.68,No
+P00831,2023-11-26,2023-11-30,,Heart Disease,Female,77.0,Dr. Patel,Recovered,No,ICU,New York,4875.25,No
+P00832,2024-02-20,2024-02-23,General Medicine,Stroke,Male,15.0,Dr. Johnson,Recovered,No,Emergency,Chicago,6817.59,No
+P00833,2023-01-11,2023-01-23,Cardiology,Stroke,Male,26.0,Dr. Johnson,Recovered,No,Emergency,Phoenix,2568.32,No
+P00834,2024-05-01,2024-05-09,Pediatrics,Flu,Male,77.0,Dr. Patel,Recovered,No,General,Chicago,4511.41,No
+P00835,2023-03-09,2023-03-17,General Medicine,Heart Disease,Male,80.0,Dr. Brown,Recovered,No,General,Houston,1165.52,No
+P00836,2023-10-11,2023-10-19,Cardiology,Flu,Male,69.0,Dr. Smith,Deceased,Yes,Emergency,Phoenix,5212.16,No
+P00837,2023-12-31,2024-01-10,Neurology,Fracture,Female,78.0,Dr. Lee,Recovered,No,Emergency,New York,3125.17,No
+P00838,2023-04-11,2023-04-14,Orthopedics,Flu,Male,74.0,Dr. Brown,Recovered,No,Emergency,Los Angeles,5845.79,No
+P00839,2023-08-09,2023-08-12,Orthopedics,,Female,54.0,Dr. Smith,Recovered,No,ICU,Houston,6818.24,No
+P00840,2024-07-26,2024-07-31,Orthopedics,Cancer,Female,18.0,Dr. Johnson,Recovered,No,ICU,Phoenix,4260.28,No
+P00841,2023-08-14,2023-08-23,Pediatrics,Fracture,Female,78.0,Dr. Lee,Recovered,No,ICU,Phoenix,7444.46,No
+P00842,2024-08-10,2024-08-14,Neurology,Cancer,Female,69.0,Dr. Patel,Recovered,No,Emergency,Chicago,4440.99,No
+P00843,2024-01-03,2024-01-14,General Medicine,Flu,Male,88.0,Dr. Johnson,Recovered,No,ICU,New York,5461.51,No
+P00844,2023-05-30,2023-06-03,Oncology,Fracture,Female,49.0,Dr. Brown,Recovered,No,General,Los Angeles,3356.72,No
+P00845,2024-07-14,2024-07-22,Cardiology,Covid-19,Female,31.0,Dr. Lee,Recovered,No,General,Houston,6738.85,No
+P00846,2024-04-18,2024-04-27,Oncology,Diabetes,Male,77.0,Dr. Johnson,Recovered,No,General,Los Angeles,5070.61,No
+P00847,2024-02-24,2024-02-27,Neurology,Cancer,Female,86.0,Dr. Lee,Recovered,No,Emergency,Houston,5937.72,No
+P00848,2023-09-03,2023-09-08,Cardiology,Diabetes,Female,84.0,Dr. Patel,Recovered,No,General,Phoenix,5568.82,No
+P00849,2023-05-25,2023-05-27,General Medicine,Stroke,Female,37.0,Dr. Johnson,Recovered,No,General,Houston,,No
+P00850,2023-01-19,2023-02-01,Neurology,Covid-19,Male,44.0,Dr. Patel,Recovered,Yes,Emergency,Los Angeles,4630.42,No
+P00851,2024-06-29,2024-07-01,Oncology,Fracture,Female,69.0,Dr. Patel,Recovered,No,ICU,Chicago,4419.32,No
+P00852,2024-06-05,2024-06-11,Neurology,Cancer,Female,60.0,Dr. Lee,Recovered,No,ICU,Los Angeles,4778.42,No
+P00853,2023-03-19,2023-03-24,Oncology,Cancer,Female,30.0,Dr. Lee,Recovered,Yes,ICU,Chicago,4281.86,No
+P00854,2024-03-20,2024-03-28,Pediatrics,Fracture,Female,,Dr. Brown,Recovered,No,General,Houston,5539.21,No
+P00855,2024-10-14,2024-10-28,Cardiology,Flu,Female,62.0,Dr. Johnson,Recovered,No,ICU,Chicago,1419.61,No
+P00856,2023-03-12,2023-03-22,Cardiology,Covid-19,Male,21.0,Dr. Johnson,Recovered,Yes,Emergency,Chicago,4256.18,No
+P00857,2024-01-07,2024-01-11,Oncology,Covid-19,Female,54.0,Dr. Smith,Recovered,No,ICU,Houston,1987.27,No
+P00858,2023-01-19,2023-01-20,Pediatrics,Cancer,Male,65.0,Dr. Johnson,Recovered,No,Emergency,Phoenix,4524.07,No
+P00859,2024-07-05,2024-07-08,Pediatrics,Covid-19,Female,25.0,,Recovered,No,General,Los Angeles,3714.72,Yes
+P00860,2023-07-03,,Neurology,Cancer,Female,87.0,Dr. Patel,Recovered,No,ICU,New York,3310.92,No
+P00861,2023-07-20,2023-07-21,General Medicine,Flu,Female,66.0,Dr. Johnson,Recovered,No,ICU,Phoenix,7931.45,No
+P00862,2023-11-25,2023-11-26,Orthopedics,Flu,Male,27.0,Dr. Smith,Recovered,No,General,Chicago,6866.98,No
+P00863,2024-06-12,2024-06-17,Oncology,Fracture,Female,39.0,Dr. Brown,Recovered,No,ICU,New York,5671.18,Yes
+P00864,2024-01-23,2024-01-29,Pediatrics,,Male,25.0,Dr. Lee,Recovered,No,Emergency,Houston,4538.15,No
+P00865,2023-07-15,2023-07-18,Neurology,Covid-19,Male,24.0,Dr. Patel,Recovered,No,ICU,Phoenix,6929.94,No
+P00866,2023-07-28,2023-07-29,Neurology,Fracture,Male,79.0,Dr. Brown,Recovered,No,General,Chicago,4085.02,Yes
+P00867,2024-11-30,2024-12-13,Orthopedics,Fracture,Female,35.0,Dr. Patel,Recovered,No,Emergency,Chicago,4115.16,No
+P00868,,2024-10-12,General Medicine,Heart Disease,Male,47.0,Dr. Smith,Recovered,Yes,Emergency,Chicago,6048.03,No
+P00869,2023-05-26,2023-06-09,Oncology,Covid-19,Female,32.0,Dr. Johnson,Recovered,No,General,Chicago,5314.3,No
+P00870,2024-04-23,2024-05-07,Pediatrics,Stroke,Female,34.0,Dr. Lee,Recovered,Yes,ICU,Los Angeles,3362.56,No
+P00871,2024-05-25,2024-06-03,General Medicine,Diabetes,Female,73.0,Dr. Lee,Recovered,No,Emergency,New York,6139.27,No
+P00872,2024-02-13,2024-02-25,Neurology,Heart Disease,Female,,Dr. Brown,Recovered,Yes,ICU,Houston,4562.36,No
+P00873,2024-02-08,2024-02-21,Cardiology,Covid-19,Male,38.0,Dr. Patel,Recovered,No,ICU,New York,5618.95,Yes
+P00874,2024-09-09,2024-09-14,Orthopedics,Flu,Male,50.0,Dr. Patel,Recovered,No,ICU,Phoenix,4096.4,No
+P00875,2024-03-25,2024-04-04,Pediatrics,Cancer,Female,79.0,Dr. Smith,Recovered,No,Emergency,New York,6168.54,No
+P00876,2023-09-09,2023-09-20,Orthopedics,Heart Disease,Male,34.0,Dr. Patel,Recovered,No,General,Phoenix,3334.36,No
+P00877,2024-02-22,2024-03-05,Cardiology,Fracture,Female,15.0,Dr. Patel,Recovered,No,Emergency,Los Angeles,2773.92,No
+P00878,2023-03-15,2023-03-18,Cardiology,Covid-19,Female,67.0,Dr. Lee,Recovered,No,ICU,Houston,4687.3,No
+P00879,2023-09-26,2023-10-04,General Medicine,Stroke,Female,66.0,Dr. Smith,Recovered,No,General,Phoenix,3882.01,No
+P00880,2024-12-17,2024-12-20,Oncology,,Female,21.0,Dr. Smith,Recovered,No,ICU,Phoenix,3980.4,No
+P00881,2023-09-16,2023-09-20,Oncology,Heart Disease,Female,40.0,,Recovered,No,General,Los Angeles,4283.81,Yes
+P00882,2023-05-21,2023-06-01,Oncology,Flu,Male,6.0,Dr. Lee,Recovered,No,General,,2546.02,Yes
+P00883,2024-08-11,2024-08-15,General Medicine,Covid-19,Female,66.0,Dr. Patel,Recovered,No,ICU,Los Angeles,,No
+P00884,2023-08-15,2023-08-27,Orthopedics,Cancer,Male,58.0,Dr. Johnson,Deceased,No,General,Los Angeles,6554.45,No
+P00885,2023-01-13,2023-01-22,Oncology,Stroke,Male,57.0,Dr. Smith,Recovered,No,Emergency,Phoenix,5633.16,No
+P00886,2023-09-16,2023-09-24,Cardiology,Covid-19,Male,5.0,Dr. Patel,Recovered,No,ICU,New York,7335.32,No
+P00887,2023-04-26,2023-04-28,Oncology,Covid-19,Female,67.0,Dr. Johnson,Recovered,No,Emergency,Los Angeles,2051.11,No
+P00888,2024-02-20,2024-02-24,Neurology,Cancer,Male,57.0,Dr. Brown,Recovered,No,ICU,Los Angeles,4875.71,No
+P00889,2024-07-04,2024-07-05,Neurology,Covid-19,Female,45.0,Dr. Smith,Recovered,No,General,Houston,5340.55,No
+P00890,2023-08-02,2023-08-06,Cardiology,Covid-19,Female,89.0,Dr. Smith,Recovered,,ICU,Los Angeles,4513.9,No
+P00891,2023-02-18,2023-02-22,Pediatrics,Heart Disease,Female,33.0,Dr. Brown,Recovered,No,ICU,Los Angeles,5145.01,
+P00892,2024-04-22,2024-04-25,Neurology,Covid-19,Female,64.0,Dr. Patel,Recovered,Yes,General,New York,4514.1,No
+P00893,2023-03-23,2023-03-30,Neurology,Fracture,Male,16.0,Dr. Johnson,Recovered,Yes,General,New York,5118.17,No
+P00894,2024-01-10,2024-01-22,Pediatrics,Diabetes,Female,53.0,Dr. Lee,Recovered,No,ICU,Los Angeles,6580.88,No
+P00895,2023-11-10,2023-11-23,Neurology,Heart Disease,Female,27.0,Dr. Brown,Recovered,No,ICU,Phoenix,6753.27,No
+P00896,2023-08-12,2023-08-22,Cardiology,Flu,,48.0,Dr. Smith,Recovered,No,ICU,Houston,4381.42,No
+P00897,2024-09-28,2024-10-08,Pediatrics,Covid-19,Male,51.0,Dr. Lee,Recovered,No,ICU,Chicago,5702.86,No
+P00898,2024-03-17,2024-03-28,Cardiology,Flu,Female,27.0,Dr. Johnson,Recovered,No,Emergency,New York,6974.82,No
+P00899,2023-03-07,2023-03-18,General Medicine,Diabetes,Female,36.0,Dr. Brown,Recovered,No,General,Chicago,3681.08,No
+P00900,2024-09-06,2024-09-07,General Medicine,Diabetes,Female,25.0,Dr. Smith,Recovered,No,General,Los Angeles,5522.89,No
+P00901,2023-07-29,2023-08-12,Neurology,Fracture,Male,64.0,Dr. Johnson,Recovered,No,Emergency,Los Angeles,7219.98,No
+P00902,2023-04-24,2023-05-06,Neurology,Diabetes,Female,36.0,Dr. Smith,Recovered,Yes,General,Phoenix,,No
+P00903,2024-11-19,2024-11-22,Neurology,Covid-19,Female,74.0,Dr. Lee,Recovered,No,Emergency,Houston,6253.73,No
+P00904,2023-01-26,2023-02-03,Neurology,Flu,Male,5.0,Dr. Johnson,Recovered,No,Emergency,Los Angeles,6567.97,Yes
+P00905,2024-02-25,2024-02-28,General Medicine,Covid-19,Male,52.0,Dr. Lee,Recovered,No,General,Los Angeles,4993.07,No
+P00906,2023-06-04,2023-06-10,Cardiology,Flu,,58.0,Dr. Lee,Recovered,Yes,ICU,Chicago,5556.21,No
+P00907,2024-03-31,2024-04-08,,Fracture,Female,71.0,Dr. Smith,Recovered,Yes,General,Chicago,4681.25,No
+P00908,2023-09-28,2023-10-12,Cardiology,Flu,Male,26.0,Dr. Johnson,Recovered,No,ICU,New York,6768.42,No
+P00909,2023-12-31,2024-01-06,Orthopedics,Flu,Male,,Dr. Johnson,Recovered,No,General,New York,5143.6,No
+P00910,2023-08-13,2023-08-22,Oncology,Stroke,Male,73.0,Dr. Brown,Recovered,No,General,New York,4110.01,No
+P00911,2024-06-24,2024-06-27,Pediatrics,Flu,Female,49.0,Dr. Patel,Recovered,No,ICU,Los Angeles,6264.66,No
+P00912,2024-11-06,2024-11-15,Orthopedics,Covid-19,Male,,Dr. Lee,Recovered,No,ICU,Houston,6744.26,No
+P00913,2023-05-09,2023-05-16,Oncology,Stroke,Female,74.0,,Recovered,No,ICU,Phoenix,6472.67,No
+P00914,2024-07-18,2024-07-20,General Medicine,Diabetes,Male,58.0,Dr. Brown,Recovered,No,ICU,Phoenix,2531.11,Yes
+P00915,2024-02-08,2024-02-15,Neurology,Stroke,Male,24.0,Dr. Patel,Recovered,No,General,Los Angeles,5299.23,Yes
+P00916,2024-04-22,2024-05-01,Neurology,Diabetes,,3.0,Dr. Smith,Recovered,Yes,Emergency,Houston,4878.58,No
+P00917,2024-05-06,2024-05-19,Oncology,Fracture,Male,26.0,Dr. Johnson,Recovered,Yes,General,,3990.07,No
+P00918,2023-08-31,2023-09-06,Neurology,Diabetes,Female,79.0,Dr. Lee,Recovered,No,Emergency,Houston,4039.12,No
+P00919,2024-12-30,2025-01-02,General Medicine,Fracture,Female,68.0,Dr. Johnson,Recovered,No,ICU,Houston,3561.83,No
+P00920,2023-11-11,2023-11-18,Oncology,Diabetes,Male,3.0,Dr. Patel,Recovered,No,Emergency,New York,2971.24,No
+P00921,,2023-06-27,General Medicine,Covid-19,Female,71.0,Dr. Smith,Recovered,No,General,Los Angeles,3523.4,No
+P00922,2023-07-07,2023-07-15,Cardiology,Stroke,Male,35.0,Dr. Johnson,Recovered,Yes,General,Houston,5876.96,No
+P00923,2024-12-29,2025-01-08,Oncology,Heart Disease,Female,83.0,Dr. Brown,Recovered,Yes,ICU,Los Angeles,5522.51,No
+P00924,2023-06-30,2023-07-04,General Medicine,Covid-19,Female,36.0,Dr. Brown,Recovered,No,General,Houston,3653.25,No
+P00925,2024-04-08,2024-04-17,Orthopedics,Cancer,Female,18.0,Dr. Smith,Recovered,No,Emergency,Chicago,6550.84,No
+P00926,2024-08-24,2024-08-29,General Medicine,Covid-19,Female,17.0,Dr. Lee,Recovered,No,General,Chicago,7200.61,No
+,2024-07-14,2024-07-19,Oncology,Covid-19,Female,2.0,Dr. Patel,Recovered,No,ICU,New York,3363.66,No
+P00928,2023-10-24,2023-10-27,General Medicine,Covid-19,Female,82.0,Dr. Patel,Recovered,,ICU,New York,6191.45,No
+P00929,2023-01-12,2023-01-15,Oncology,Flu,Male,5.0,Dr. Patel,Recovered,No,General,New York,5555.32,No
+P00930,2023-04-10,2023-04-12,Neurology,Flu,Male,9.0,Dr. Smith,Recovered,Yes,Emergency,Chicago,5876.47,No
+P00931,2023-05-23,,Neurology,Covid-19,Female,42.0,Dr. Lee,Recovered,No,ICU,Houston,3491.6,No
+P00932,2024-12-20,2024-12-31,Orthopedics,Heart Disease,Male,14.0,Dr. Brown,Deceased,No,Emergency,Los Angeles,5540.25,No
+P00933,2023-04-12,2023-04-25,Neurology,Covid-19,Male,82.0,Dr. Smith,Recovered,Yes,General,Chicago,4770.67,No
+P00934,2023-02-21,2023-02-26,Orthopedics,Fracture,Male,8.0,Dr. Patel,Recovered,No,Emergency,Phoenix,3875.33,
+P00935,2024-07-10,2024-07-19,Cardiology,Covid-19,Female,32.0,Dr. Patel,Recovered,No,General,Phoenix,5981.81,No
+P00936,2023-09-10,2023-09-24,Neurology,Cancer,Male,9.0,Dr. Smith,Recovered,No,Emergency,Los Angeles,4000.54,No
+P00937,2024-06-20,2024-06-23,General Medicine,Diabetes,Male,13.0,Dr. Johnson,Recovered,Yes,Emergency,Phoenix,5606.5,No
+P00938,2023-02-16,2023-02-18,Pediatrics,Covid-19,Male,82.0,Dr. Lee,Recovered,No,General,Houston,3631.56,Yes
+P00939,2023-11-26,2023-12-04,Oncology,Flu,Female,43.0,Dr. Brown,Recovered,No,ICU,Chicago,,No
+P00940,2024-02-01,2024-02-04,,Diabetes,Female,26.0,Dr. Smith,Recovered,No,General,,5000.15,No
+P00941,2023-07-07,,General Medicine,Fracture,Female,49.0,Dr. Johnson,Recovered,No,Emergency,Phoenix,7452.6,No
+P00942,2024-08-19,,Orthopedics,Heart Disease,Male,52.0,Dr. Brown,Recovered,No,General,Los Angeles,6967.54,No
+P00943,2024-09-17,2024-09-28,Pediatrics,Covid-19,Male,30.0,Dr. Johnson,Recovered,Yes,ICU,Los Angeles,4601.57,No
+P00944,2023-11-24,2023-11-27,General Medicine,Flu,Female,87.0,Dr. Patel,Recovered,No,General,Los Angeles,6554.77,No
+P00945,2023-03-24,2023-03-26,Oncology,Heart Disease,Male,42.0,Dr. Lee,Recovered,No,General,Houston,3267.37,No
+P00946,2023-04-16,2023-04-28,Cardiology,Diabetes,Male,69.0,Dr. Johnson,Recovered,No,ICU,Los Angeles,4370.15,No
+P00947,2024-02-16,2024-02-17,General Medicine,Cancer,Female,23.0,Dr. Smith,Recovered,No,Emergency,New York,5104.31,No
+P00948,2024-02-26,2024-02-28,Orthopedics,Cancer,Male,6.0,Dr. Patel,Recovered,,ICU,Los Angeles,7852.45,No
+P00949,2024-02-29,2024-03-08,General Medicine,Flu,Female,74.0,Dr. Smith,Recovered,No,Emergency,Phoenix,6033.5,No
+P00950,2024-06-21,2024-06-28,Pediatrics,Stroke,Male,12.0,Dr. Lee,Recovered,No,ICU,New York,4222.17,No
+P00951,2024-03-30,2024-04-07,Pediatrics,Covid-19,Female,50.0,Dr. Smith,Recovered,No,Emergency,Houston,4150.29,Yes
+P00952,2023-02-21,,Pediatrics,Fracture,Male,25.0,Dr. Brown,Recovered,No,ICU,Los Angeles,3631.0,No
+,2023-05-11,2023-05-21,Orthopedics,Heart Disease,Male,59.0,Dr. Patel,Recovered,No,Emergency,Chicago,3614.59,No
+P00954,2024-01-07,2024-01-19,Neurology,Covid-19,Female,5.0,Dr. Brown,Deceased,No,ICU,New York,5304.42,No
+P00955,2023-05-09,2023-05-20,General Medicine,Heart Disease,Female,63.0,,Recovered,Yes,ICU,Phoenix,4326.54,No
+P00956,2023-01-24,2023-01-27,Oncology,Flu,Female,22.0,Dr. Lee,Recovered,No,General,New York,5012.98,No
+P00957,2024-05-10,2024-05-16,Cardiology,Diabetes,Female,15.0,Dr. Johnson,Recovered,No,Emergency,Houston,4875.93,No
+P00958,2023-08-03,2023-08-05,Neurology,Fracture,Female,38.0,Dr. Lee,Recovered,No,General,Houston,5364.64,No
+P00959,2024-05-20,2024-06-03,Orthopedics,Fracture,Female,25.0,Dr. Patel,Recovered,Yes,Emergency,Houston,6183.18,No
+P00960,2023-05-29,2023-06-07,Cardiology,Fracture,Male,65.0,Dr. Patel,Recovered,No,Emergency,New York,5394.62,No
+P00961,,2024-07-13,Orthopedics,Heart Disease,Male,28.0,Dr. Johnson,Recovered,No,ICU,Phoenix,5735.12,No
+P00962,2024-12-26,2025-01-02,General Medicine,,Female,30.0,Dr. Brown,Recovered,No,Emergency,New York,5821.48,No
+P00963,2023-12-13,2023-12-14,Oncology,Diabetes,Female,66.0,Dr. Brown,Recovered,No,Emergency,Phoenix,6084.24,No
+,2024-06-16,2024-06-26,Cardiology,Flu,Female,5.0,Dr. Smith,Deceased,No,General,Phoenix,,No
+P00965,2023-11-13,2023-11-19,Neurology,Heart Disease,Female,20.0,Dr. Smith,Recovered,No,ICU,Houston,4867.81,No
+P00966,2024-05-27,2024-05-30,Cardiology,,Female,5.0,Dr. Lee,Recovered,No,ICU,Chicago,7382.76,No
+P00967,2024-01-06,2024-01-09,Oncology,Stroke,Female,76.0,Dr. Brown,Recovered,No,General,Chicago,5434.28,No
+P00968,2023-03-10,2023-03-18,Pediatrics,Diabetes,Female,,,Recovered,No,General,Phoenix,3648.72,No
+P00969,2024-05-12,2024-05-16,Orthopedics,Diabetes,Female,76.0,Dr. Brown,Recovered,Yes,ICU,Los Angeles,4808.48,No
+P00970,2024-05-12,2024-05-19,Pediatrics,Covid-19,Male,50.0,Dr. Lee,Recovered,No,ICU,,5120.38,No
+P00971,2023-11-21,2023-11-27,Orthopedics,Diabetes,Male,80.0,Dr. Lee,Recovered,No,ICU,New York,3508.36,No
+P00972,2024-04-18,2024-04-20,General Medicine,Heart Disease,Female,29.0,Dr. Lee,Recovered,Yes,Emergency,Houston,5374.32,No
+P00973,2023-06-02,2023-06-07,General Medicine,Stroke,Female,17.0,Dr. Johnson,Recovered,No,ICU,Houston,5678.48,No
+P00974,2024-11-23,2024-11-30,Oncology,Cancer,Female,56.0,Dr. Lee,Recovered,No,General,Los Angeles,1724.98,No
+P00975,2024-05-02,2024-05-04,Oncology,Heart Disease,Male,73.0,Dr. Johnson,Recovered,No,Emergency,Chicago,2742.05,No
+P00976,2024-09-04,2024-09-06,Orthopedics,Diabetes,Female,84.0,Dr. Patel,Recovered,No,Emergency,Los Angeles,5627.97,No
+P00977,2024-06-06,2024-06-17,Pediatrics,Fracture,Male,16.0,Dr. Johnson,Recovered,No,General,New York,5729.28,No
+P00978,2024-06-07,2024-06-10,,Fracture,Female,21.0,Dr. Lee,Deceased,No,General,Chicago,2075.94,No
+P00979,2023-05-14,2023-05-22,Orthopedics,Cancer,Female,27.0,Dr. Johnson,Recovered,No,ICU,New York,7140.96,No
+P00980,2023-04-11,2023-04-17,General Medicine,Covid-19,Female,45.0,Dr. Patel,Recovered,Yes,Emergency,New York,4370.85,No
+P00981,2024-05-20,2024-05-26,Oncology,Stroke,Female,71.0,Dr. Smith,Recovered,No,General,Phoenix,5941.41,No
+P00982,2023-09-30,2023-10-14,Neurology,Diabetes,Female,36.0,Dr. Smith,Recovered,Yes,ICU,Los Angeles,4580.74,No
+P00983,2024-05-16,2024-05-27,General Medicine,Stroke,Male,25.0,Dr. Johnson,,Yes,ICU,Los Angeles,1000.0,Yes
+P00984,2023-07-01,2023-07-11,Neurology,Heart Disease,Female,86.0,Dr. Johnson,Recovered,Yes,General,Phoenix,4364.25,Yes
+P00985,2024-03-08,2024-03-15,Pediatrics,Covid-19,Female,87.0,Dr. Brown,Recovered,No,Emergency,,3389.84,No
+P00986,2024-09-10,2024-09-20,Orthopedics,Stroke,Female,2.0,Dr. Johnson,Recovered,No,Emergency,Phoenix,5898.27,No
+P00987,2023-06-15,2023-06-22,Pediatrics,Diabetes,Female,59.0,Dr. Lee,Recovered,No,Emergency,Chicago,3781.46,No
+P00988,2023-08-17,2023-08-19,Oncology,Flu,Female,55.0,Dr. Lee,Recovered,Yes,General,Chicago,4569.55,No
+P00989,2024-04-27,2024-05-08,Orthopedics,Cancer,Male,63.0,Dr. Johnson,Recovered,Yes,ICU,Los Angeles,5063.86,No
+P00990,2023-01-21,2023-01-31,Orthopedics,Fracture,Male,43.0,Dr. Smith,Deceased,No,Emergency,Houston,7681.13,No
+P00991,2024-01-07,2024-01-19,Orthopedics,Cancer,Male,50.0,Dr. Patel,Recovered,No,General,Chicago,4879.85,No
+P00992,2024-02-23,2024-02-28,General Medicine,Diabetes,Male,21.0,Dr. Brown,Recovered,Yes,ICU,Phoenix,3945.32,No
+P00993,2024-05-26,2024-05-27,Cardiology,Flu,Female,43.0,Dr. Brown,Recovered,No,Emergency,Houston,2232.49,No
+P00994,2024-04-24,2024-05-01,Cardiology,Stroke,Male,28.0,Dr. Patel,Recovered,No,ICU,Phoenix,6178.39,Yes
+P00995,2023-11-22,2023-11-25,General Medicine,Heart Disease,Female,88.0,Dr. Brown,Recovered,Yes,Emergency,Los Angeles,6490.67,No
+P00996,2023-02-16,2023-02-27,Cardiology,Diabetes,Female,86.0,Dr. Smith,Recovered,No,Emergency,Chicago,7060.87,No
+P00997,2023-11-09,2023-11-20,Orthopedics,Cancer,Male,28.0,Dr. Patel,Recovered,Yes,ICU,Houston,5080.31,No
+P00998,2023-04-26,2023-05-09,General Medicine,Covid-19,Male,42.0,Dr. Brown,Recovered,No,General,Houston,6457.41,No
+P00999,2023-10-07,2023-10-15,Oncology,Fracture,Female,53.0,Dr. Lee,Recovered,No,General,Phoenix,6006.37,No
+,2023-04-13,2023-04-23,Orthopedics,Flu,Male,57.0,Dr. Patel,Recovered,No,Emergency,Phoenix,5905.69,No
