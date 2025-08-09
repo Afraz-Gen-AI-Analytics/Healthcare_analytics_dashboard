@@ -38,7 +38,7 @@ This dashboard can:
 
 ## Project Assets
 Google Drive Link (Dataset, PBIX File, and Documentation):  
-[Access Here](https://drive.google.com/drive/folders/1szbdGJg2_2VrmIE9xfYVot_eu2GqoM3c)
+[Access Here](https://drive.google.com/drive/folders/1YM74GX4zgwuyiC2UGwNGnuAw41ODzM2x?usp=sharing)
 
 ## Contact
 **Muhammed Mufinuddin Afraz**  
