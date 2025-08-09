@@ -37,7 +37,7 @@ This dashboard can:
 - Optimize resource allocation based on historical and forecasted trends.
 
 ## Project Assets
-Google Drive Link (Dataset, PBIX File, and Documentation):  
+Google Drive Link (Dataset, PBIX File, Presentation and Documentation):  
 [Access Here](https://drive.google.com/drive/folders/1YM74GX4zgwuyiC2UGwNGnuAw41ODzM2x?usp=sharing)
 
 ## Contact
