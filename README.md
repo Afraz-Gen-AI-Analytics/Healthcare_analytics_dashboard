@@ -46,3 +46,4 @@ Google Drive Link (Dataset, PBIX File, Presentation and Documentation):
 - LinkedIn: [www.linkedin.com/in/afraz-analytics](https://www.linkedin.com/in/afraz-analytics)  
 - GitHub: [Afraz-Gen-AI-Analytics](https://github.com/Afraz-Gen-AI-Analytics)  
 - Google Drive (Project Portfolio): [Click Here](https://drive.google.com/drive/folders/1szbdGJg2_2VrmIE9xfYVot_eu2GqoM3c)
+- **Fiverr profile**: [View Here](https://www.fiverr.com/s/2K8Em6V)
